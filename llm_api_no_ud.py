@@ -8,7 +8,7 @@ import sys
 # CONFIG
 # -----------------------
 
-OPENROUTER_API_KEY = "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"#"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"
+#OPENROUTER_API_KEY = ...
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 MODELS = {
@@ -202,7 +202,7 @@ def annotate_tsv(file_path, guidelines, model_name, model_id, language, guidelin
             df.at[i, "ANNOTATION"] = annotation
             df.at[i, "COMMENT"] = comment
 
-    out_path = file_path.replace(".tsv", f".{model_name}.{guidelines_type}.{n_examples}_no_ud.tsv").replace("metamorphosis-test","results_2")
+    out_path = file_path.replace(".tsv", f".{model_name}.{guidelines_type}.{n_examples}_no_ud.tsv").replace("metamorphosis-test","results")
     #df.drop("FORM_CHARS")
     df.to_csv(out_path, sep="\t", index=False)
 
