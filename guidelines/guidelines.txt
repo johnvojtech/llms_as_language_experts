@@ -1,0 +1,239 @@
+Guidelines for Unified Morph Segmentation in Multiple Languages
+1 Intro
+
+The aim of the project is to investigate the internal structure of words in individual languages and to
+compare this structure across languages. 
+Within the project, we adopt the traditional distinction between morpheme and morph. A morpheme is understood as the smallest linguistic unit that links form and meaning. A morpheme is instantiated in actual words by a morph. Some morphs may occur independently as mono-morphemic words, while others appear only in combination with other morphs and thus constitute parts of multi-morphemic words. If a single morpheme has multiple formally distinct realizations, this is referred to as allomorphy. In the project, we proceed bottom-up, that is, by identifying morphs in the attested linguistic material.
+The assignment of morphs to morphemes as more abstract units will be addressed in the next phase of the project; essentially, it will involve a process analogous to lemmatization, whereby an inflected word form is linked to its dictionary form.
+
+2 Basic principles of morph segmentation
+
+We will work with authentic linguistic material. The task will be to segment word forms extracted from text corpora into morphs.
+The basic principles for the planned morph segmentation are as follows:
+
+• Maximum segmentation:
+The goal is to find all possible morphs in a segmented word form, i.e., to completely decompose
+the word into morphs ((1), (2)). Unlike other projects, such as UniMorph, the task is not to identify
+only the inflectional formant (divide the inflected form into the base and inflectional ending as in
+teacher + s and opravář + i), or to find only the last added derivational affix (as in teach + er and
+oprav + ář).
+(1) ENG teach + er + s
+(2) CES o + prav + ář + i
+
+• Delimitation of morphs in corpus-attested forms:
+Morphs will be identified in word forms as they appear in text corpora. The project does not aim
+at modeling word-formation processes, where a motivating word is sought for a more complex
+word.
+
+• Morph as a re-occurring unit:
+Morphs are expected to re-occur in multiple different word forms. Comparing forms in these
+sets—ideally consisting of at least three members—is the basic principle for identifying morphs.
+For example, by comparing the words teacher, teaching, and teachable, the morph teach is de-
+fined; by comparing teacher, writer, and officer defines the morpheme er. Based on the compari-
+son of the English words reduction, deduction, induction, the root duc is delimited along with the
+other segments shown in (3); cf. (4) for the segmentation of the Czech counterpart words.
+(3) ENG re + duc + tion, de + duc + tion in + duc + tion
+(4) CES re + duk + c + e, de + duk + c + e, in + duk + c + e
+
+• Cranberry morphs vs. no segmentation
+If, based on analogy, it is possible to distinguish only some morphs in a word, the remaining
+substring can also be considered a morph (cranberry morph); cf. cran and huckle along with other
+words containing berry in (5)). Although the words cran and huckle do not occur in other words
+today, they are considered to be diachronically existent and synchronically contrasting with other
+components that combine with berry.
+(5) ENG cran + berry, huckle + berry, straw + berry, black + berry
+On the contrary, the noun woman is not broken down into morphemes (is mono-morphemic),
+because the substring wo, which would remains after identifying man, is synchronically unrecog-
+nizable.
+
+• Formal and semantic criteria:
+Although a morph is considered a formal unit, we also use semantic criteria to delimit it. It
+should be a string that can be associated with some (lexical, derivational, inflectional) meaning.
+The formal similarity of the substring room in mushroom and the substring in bedroom, etc. is
+coincidental, and mushroom should not be segmented.
+Similarly, even if the nouns sister, brother, mother, father do all share the final substring er, these
+words are not split in morphs, because this substring is different from er in agent nouns, and
+neither it nor the remaining substrings (sist-, etc.) are available to today’s speakers.
+In Czech, words such as medvˇed or manˇzel will also remain unsegmented.
+
+• Free and bound morphs:
+The separated substrings do not have to exist as separate words. The verbs in (6) are segmented
+even if mit does not exist as a word.
+(6) ENG sub + mit, ad + mit, o + mit
+
+3 Annotation format
+OMMITED
+
+4 Simple examples
+While in English we encounter mono-morphemic words (simplexes) across all parts of speech, in Ger-
+man or Czech most verb forms, including infinitives, are multi-morphemic (complex; (7) and (8)).
+(7) ENG run
+(8) GER lauf + en
+In this segmentation project, we do not work with the concept of zero morphs, i.e., morphs with
+a graphically unrealized form. some morphological approaches posit zero morphs in positions where
+related forms show an overt exponent. For example, a zero inflectional morph could be assumed for
+the nominative singular of the Czech noun pán, since other case forms have overt endings (cf. genitive
+singular pán + a or dative plural pán + ˚um); similarly, by analogy with English agent nouns formed with
+the suffix er, a zero derivational morph could be posited in the noun cook. In our project, however, we
+treat both pán and cook as mono-morphemic words.
+Proper names may also appear in the data.1 In the project, we want to treat them similarly to common
+names: their internal structure is analyzed if it is synchronously apparent.
+
+4.1 Simplexes are not segmented
+(9) ENG run
+(10) ENG difficult
+(11) ENG Anna
+(12) ENG London
+(13) DEU Ananas
+(14) DEU Schluss
+(15) CES rád
+
+4.2 Complex words containing a root and inflectional morphs
+(16) ENG talk + ed
+(17) ITA favill + a
+(18) CES měst + o
+(19) ITA graff + i + re, graff + i + at + o
+
+Because all letters in the data samples for all languages are normalized to lowercase, the graphic distinction of proper
+names by capitalization, used in some languages, is lost. This is not an error.
+
+(20) CES nos + i + t, nos + i + l + a
+(21) CES Ann + a
+(22) CES Prah + a
+
+4.3 Complex words containing a root and a derivational morph
+(23) ENG teach + er
+(24) ENG Fredd + ie
+(25) DEU Tisch + lein
+(26) DEU Gret + chen
+(27) CES stol + ek
+(28) ITA attiv + ità
+
+4.4 Complex words containing a root, derivational morphs and inflectional morphs
+(29) ENG re + sub + miss + ion + s
+(30) DEU aus + ge + zeichn + et + e
+(31) CES sou + ostrov + í
+(32) CES Zá + hoř + í
+(33) CES ne + o + dů + vod + n + i + teln + ý
+(34) CES nej + lep + š + ích
+(35) CES Vy + skoč + i + l
+
+4.5 Complex words (compounds) with multiple roots, an interfix, derivational and in-
+flectional morphs
+(36) ENG black + mail
+(37) DEU Jahr + es + ab + schluss + prüf + ung
+(38) CES živ + ot + o + pis
+(39) CES modr + o + ok + ý
+(40) CES čern + o + ˇcern + ý
+(41) CES Boh + u + mil
+
+5 More challenging examples
+
+5.1 Allomorphy
+(42) ENG put, putt + ing
+(43) ENG lady, ladie + s
+In (44), the simplex noun (bare root) list reappears as a root morph with a lengthened vowel in lístek
+and in lísteček, where the suffix -eč is an allomorph of -ek from lístek.
+(44) CES list, líst + ek, líst + eč + ek
+Some letters can be considered both the final element of one morph and the initial letter of the
+following morph (cf. e in writer). However, since in this step we only divide attested word forms into
+substrings, the disputed letter cannot be placed in both morphs at the same time. In such cases, we assign
+the disputed letter to the second morph, which may increase the allomorphy of the first morph (cf. the
+root writ in writer in (45) has a different form than in the mono-morphemic infinitive write).
+(45) ENG writ + er, writ + ing, write
+(46) ENG happi + er, happi + ness, happy
+(47) DEU Woch + en, Woch + en + ende, Woche
+Contracted forms are also merely divided into segments belonging to originally separate words, but
+the full form of these words is not reconstructed.
+(48) ENG can + ’t, I + ’ve
+(49) DEU an + s, a + m, dr + in
+(50) SPA a + l, d + el
+(51) CES při + běh + l + a + s
+Abbreviations are also segmented if the internal structure is transparent:
+(52) ENG et + c.
+(53) DEU u + s + w.
+(54) CES a + t + d., E + U, O + D + S
+
+5.2 Allomorphy instead of introflection
+Internal modification (vowel and consonant alternations) that might happen inside the roots are not a
+reason for root segmentation, even though some concepts proceed in this way (discontinuous stems).
+Here, these roots are understood as allomorphs.
+(55) ENG foot, feet
+(56) ENG sheep, shep + herd
+(57) ENG aus + schliess + en, Aus + schluss, aus + ge + schloss + en
+(58) CES vy + br + a + t, vý + běr, vý + bor
+
+5.3 Segmentation of pronominal words
+Pronouns and other pronominal expressions should be segmented only to the extent that the identified
+morphs are synchronically attested across multiple forms in the language.
+(59) ENG some + thing
+(60) ENG no + body
+(61) DEU je + mand
+(62) CES ně + kdo
+(63) CES ni + komu
+Synchronically non-transparent pronominal (personal, possessive, demonstrative or interrogative)
+substrings are not expected to be delimited at this stage of the project, even though they recur across
+forms; cf.:
+• ENG: th in them, their, h in he, him, his
+• GER: d in das, der or in du, dich, deine
+
+5.4 Segmentation of numeral expressions
+Similarly, numerals are analyzed internally only when their structure is synchronically transparent.
+(64) ENG eleven
+(65) ENG two, twelve, twelf + th
+(66) ENG three, thir + teen, thir + ty, thir + tie + th
+5.5 Segmentation of non-inflected word classes
+(67) ENG be + cause
+(68) GER des + wegen
+(69) CES pro + to + že
+Words that function as both inflected and uninflected parts of speech (e.g., nouns and prepositions)
+are segmented identically in both functions.
+(70) GER mittel + s
+(71) CES kol + em
+
+5.6 Segmentation of loanwords
+In the data used for segmentation, which are randomly sampled from frequency lists extracted from the
+InterCorp corpora, loanwords are not distinguished from native (inherited) words. In the segmentation
+process, we aim to treat loanwords as much like native words as possible (identifying inflectional end-
+ings, comparing structure across sets sharing the same substring, etc.), while still respecting the structure
+of the current language. We do not impose identical structural analyses of corresponding words across
+different languages.
+
+Examples of corresponding words in multiple languages:
+(72) ITA attiv + ità
+(73) ENG act + iv + ity, act + iv + itie + s
+(74) DEU Akt + iv + it¨at, Akt + iv + it¨at + en
+(75) CES aktiv + it + a, aktiv + it + y
+(76) ENG filtr + ation
+(77) DEU Filtr + ation
+(78) CES filtr + ac + e
+(79) ENG rebell + ion
+(80) DEU Rebell + ion
+(81) CES rebel + i + e
+(82) ENG func + tion
+(83) DEU Funk + tion
+(84) CES funk + c + e
+(85) ENG ex + plos + ion
+(86) DEU Ex + plos + ion
+(87) CES ex + ploz + e
+(88) ENG ex + pos + ition
+(89) DEU Ex + pos + ition
+(90) CES ex + poz + ic + e
+(91) ENG psych + o + logy
+(92) DEU Psych + o + logie
+(93) CES psych + o + log + i + e
+(94) ITA psic + o + log + ia
+(95) ENG demo + cracy
+(96) DEU Demo + krat + ie
+(97) CES demo + krac + i + e
+(98) ITA demo + craz + ia
+(99) ENG eco + nom + ist
+(100) DEU Öko + nom
+(101) CES eko + nom
+(102) ITA eco + nom + ist + a
+(103) ENG eco + logy
+(104) DEU Öko + log + ie
+(105) CES eko + log + i + e
+(106) ITA eco + log + ia
+
+End of guidelines.

@@ -1,0 +1,151 @@
+#ID	FORM	REVERTED	LEMMA	UPOS	FEATS	PPM	TRANSLIT	ANNOTATION	COMMENT
+1	l’	’l	l’	DET	Definite=Def|Number=Sing|PronType=Art	902.9	l'	l+’	Alternativně: l+' (lemma: le)
+2	veux	xuev	vouloir	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	859.7	veux	veux	
+3	comme	emmoc	comme	SCONJ		814.8	comme	comme	
+4	encore	erocne	encore	ADV		811.8	encore	encore	
+5	avez	zeva	avoir	AUX	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	798.6	avez	avez	
+6	où	ùo	où	PRON	PronType=Rel	715.8	ou	où	
+7	ta	at	son	DET	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	693.7	ta	ta	Alternative: t+a
+8	la	al	lui	PRON	Emph=No|Gender=Fem|Number=Sing|Person=3|PronType=Prs	666.3	la	la	"Alternative: l+a. Lui není správné lemma, má to být ""le"""
+9	bon	nob	bon	ADJ	Gender=Masc|Number=Sing	643.6	bon	bon	
+11	tous	suot	tout	ADJ	Gender=Masc|Number=Plur	609.8	tous	tous	
+12	plus	sulp	plus	ADV	Polarity=Neg	585.3	plus	plus	
+13	s'	s	si	SCONJ		576.7	s'	s+'	
+14	tout	tuot	tout	ADV		554.5	tout	tout	
+15	parler	relrap	parler	VERB	VerbForm=Inf	522.5	parler	parl+er	
+18	membres	serbmem	membre	NOUN	Gender=Masc|Number=Plur	450.9	membres	membre+s	
+21	depuis	siuped	depuis	ADP		408.9	depuis	depuis	
+22	prendre	erdnerp	prendre	VERB	VerbForm=Inf	399.1	prendre	prendre	
+23	avant	tnava	avant	ADP		380.2	avant	avant	
+24	nom	mon	nom	NOUN	Gender=Masc|Number=Sing	378.5	nom	nom	
+26	cas	sac	cas	NOUN	Gender=Masc|Number=Sing	357.4	cas	cas	
+27	travail	liavart	travail	NOUN	Gender=Masc|Number=Sing	352.3	travail	travail	
+28	tes	set	son	DET	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	343.7	tes	tes	
+29	point	tniop	point	NOUN	Gender=Masc|Number=Sing	333.1	point	point	
+32	aider	redia	aider	VERB	VerbForm=Inf	309.1	aider	aid+er	
+33	puis	siup	puis	CCONJ		308.2	puis	puis	
+34	serait	tiares	être	AUX	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	306.1	serait	serait	
+35	partir	ritrap	partir	VERB	VerbForm=Inf	288.7	partir	partir	
+36	aujourd'hui	iuh'druojua	aujourd'hui	ADV		276.2	aujourd'hui	aujourd+'hu+i	
+37	famille	ellimaf	famille	NOUN	Gender=Fem|Number=Sing	274.3	famille	famille	
+38	idée	eédi	idée	NOUN	Gender=Fem|Number=Sing	267.3	idee	idée	
+40	pays	syap	pays	NOUN	Gender=Masc|Number=Plur	256.3	pays	pays	
+41	mettre	erttem	mettre	VERB	VerbForm=Inf	251.9	mettre	mettre	
+42	pouvez	zevuop	pouvoir	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	250.8	pouvez	pouvez	
+43	fils	slif	fils	NOUN	Gender=Masc|Number=Sing	248.6	fils	fils	
+44	autres	sertua	autre	PRON	Number=Plur|Person=3|PronType=Ind	238.2	autres	autre+s	
+45	dernière	erèinred	dernier	ADJ	Gender=Fem|Number=Sing	221.2	derniere	derni+ère	
+47	ensemble	elbmesne	ensemble	ADV		204.1	ensemble	en+semble	
+48	mal	lam	mal	NOUN	Gender=Masc|Number=Sing	199.3	mal	mal	
+49	laisser	ressial	laisser	VERB	VerbForm=Inf	192.9	laisser	laiss+er	
+50	parlement	tnemelrap	parlement	NOUN	Gender=Masc|Number=Sing	183.6	parlement	parle+ment	
+51	suite	etius	suite	NOUN	Gender=Fem|Number=Sing	182.0	suite	suite	
+52	hé	éh	hé	INTJ		182.0	he	hé	
+53	même	emêm	même	ADJ	Gender=Masc|Number=Sing	174.2	meme	même	
+54	mal	lam	mal	ADV		169.0	mal	mal	
+55	tellement	tnemellet	tellement	ADV		160.4	tellement	telle+ment	
+58	matière	erèitam	matière	NOUN	Gender=Fem|Number=Sing	135.8	matiere	matière	
+59	lors	srol	lors	ADV		135.3	lors	lors	
+60	service	ecivres	service	NOUN	Gender=Masc|Number=Sing	130.6	service	serv+ice	
+62	meilleur	ruelliem	meilleur	ADJ	Gender=Masc|Number=Sing	122.9	meilleur	meill+eur	
+63	allait	tialla	aller	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	116.3	allait	a+llait	
+64	penser	resnep	penser	VERB	VerbForm=Inf	114.9	penser	penser	
+65	trouve	evuort	trouver	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	110.5	trouve	trouve	
+71	rôle	elôr	rôle	NOUN	Gender=Masc|Number=Sing	91.7	role	rôle	
+72	économique	euqimonocé	économique	ADJ	Gender=Fem|Number=Sing	91.1	economique	éco+nom+ique	
+73	difficile	eliciffid	difficile	ADJ	Gender=Masc|Number=Sing	88.6	difficile	difficile	
+74	mois	siom	mois	NOUN	Gender=Masc|Number=Sing	85.2	mois	mois	
+75	domaine	eniamod	domaine	NOUN	Gender=Masc|Number=Sing	85.0	domaine	dom+aine	
+78	petits	stitep	petit	ADJ	Gender=Masc|Number=Plur	79.5	petits	petit+s	
+81	juin	niuj	juin	NOUN	Gender=Masc|Number=Sing	77.0	juin	juin	
+82	tel	let	tel	ADJ	Gender=Masc|Number=Sing	73.5	tel	tel	
+84	prenez	zenerp	prendre	VERB	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	68.7	prenez	prenez	
+86	ressemble	elbmesser	ressembler	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	61.8	ressemble	re+ssemble	
+88	ciel	leic	ciel	NOUN	Gender=Masc|Number=Sing	60.8	ciel	ciel	
+89	relative	evitaler	relatif	ADJ	Gender=Fem|Number=Sing	58.2	relative	relat+ive	
+90	fini	inif	finir	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	57.6	fini	fini	
+91	quitter	rettiuq	quitter	VERB	VerbForm=Inf	56.4	quitter	quitt+er	
+92	cadeau	uaedac	cadeau	NOUN	Gender=Masc|Number=Sing	54.1	cadeau	cadeau	
+93	cerveau	uaevrec	cerveau	NOUN	Gender=Masc|Number=Sing	50.4	cerveau	cerveau	
+95	parti	itrap	parti	NOUN	Gender=Masc|Number=Sing	47.4	parti	parti	
+97	deuxième	emèixued	deuxième	ADJ	Gender=Masc|Number=Sing	45.1	deuxieme	deux+ième	
+98	pouvoirs	sriovuop	pouvoir	NOUN	Gender=Masc|Number=Plur	41.7	pouvoirs	pouvoirs	
+99	fonction	noitcnof	fonction	NOUN	Gender=Fem|Number=Sing	39.4	fonction	fonction	
+100	mandat	tadnam	mandat	NOUN	Gender=Masc|Number=Sing	38.3	mandat	mandat	
+101	morts	strom	mort	NOUN	Gender=Masc|Number=Plur	36.7	morts	morts	
+102	voté	étov	voter	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	35.8	vote	voté	
+103	écoute	etuocé	écouter	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35.6	ecoute	écoute	
+104	signal	langis	signal	NOUN	Gender=Masc|Number=Sing	35.3	signal	sign+al	
+106	adhésion	noiséhda	adhésion	NOUN	Gender=Fem|Number=Sing	33.4	adhesion	adhés+ion	
+107	vivant	tnaviv	vivant	ADJ	Gender=Masc|Number=Sing	33.3	vivant	viv+ant	
+108	statut	tutats	statut	NOUN	Gender=Masc|Number=Sing	32.2	statut	statut	
+109	investissements	stnemessitsevni	investissement	NOUN	Gender=Masc|Number=Plur	31.8	investissements	investiss+ement+s	
+110	comprend	dnerpmoc	comprendre	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29.5	comprend	comprend	
+111	remercie	eicremer	remercier	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	29.2	remercie	re+mercie	
+112	froid	diorf	froid	NOUN	Gender=Masc|Number=Sing	27.2	froid	froid	
+113	labo	obal	labo	NOUN	Gender=Masc|Number=Sing	26.7	labo	labo	
+114	normale	elamron	normal	ADJ	Gender=Fem|Number=Sing	26.7	normale	norm+al+e	
+115	oreilles	selliero	oreille	NOUN	Gender=Fem|Number=Plur	26.0	oreilles	oreille+s	
+117	queue	eueuq	queue	NOUN	Gender=Fem|Number=Sing	24.8	queue	queue	
+118	enregistrement	tnemertsigerne	enregistrement	NOUN	Gender=Masc|Number=Sing	24.6	enregistrement	en+registre+ment	
+119	efficace	ecaciffe	efficace	ADJ	Gender=Fem|Number=Sing	23.8	efficace	effic+ace	
+120	exprimer	remirpxe	exprimer	VERB	VerbForm=Inf	22.3	exprimer	exprim+er	
+121	regrette	etterger	regretter	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	22.3	regrette	regrette	
+122	peu	uep	peu	NOUN	Gender=Masc|Number=Sing	20.4	peu	peu	
+124	responsabilités	sétilibasnopser	responsabilité	NOUN	Gender=Fem|Number=Plur	19.7	responsabilites	responsabil+ités	
+127	proposer	resoporp	proposer	VERB	VerbForm=Inf	17.7	proposer	propos+er	
+128	définir	riniféd	définir	VERB	VerbForm=Inf	16.9	definir	dé+fin+ir	
+130	vivait	tiaviv	vivre	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15.2	vivait	viv+ait	
+131	chère	erèhc	chère	NOUN	Gender=Fem|Number=Sing	14.3	chere	chère	
+132	seriez	zeires	être	AUX	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	13.3	seriez	seriez	
+134	devenus	suneved	devenir	VERB	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	12.7	devenus	devenus	
+135	tyler	relyt	Tyler	PROPN		12.3	tyler	tyl+er	
+137	court	truoc	courir	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11.3	court	court	
+139	cardiaque	euqaidrac	cardiaque	ADJ	Gender=Fem|Number=Sing	10.8	cardiaque	cardi+aque	
+140	élargissement	tnemessigralé	élargissement	NOUN	Gender=Masc|Number=Sing	10.1	elargissement	é+larg+iss+e+ment	
+141	pavillon	nollivap	pavillon	NOUN	Gender=Masc|Number=Sing	9.5	pavillon	pavillon	
+142	promener	renemorp	promener	VERB	VerbForm=Inf	9.5	promener	promen+er	
+143	brûlé	élûrb	brûler	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	9.5	brule	brûlé	
+145	vain	niav	vain	ADJ	Gender=Masc|Number=Sing	8.5	vain	vain	
+146	douzaine	eniazuod	douzaine	NOUN	Gender=Fem|Number=Sing	8.3	douzaine	douz+aine	
+147	sers	sres	sertir	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7.9	sers	sers	
+148	rétablir	rilbatér	rétablir	VERB	VerbForm=Inf	7.8	retablir	r+établir	
+150	défaite	etiaféd	défaite	NOUN	Gender=Fem|Number=Sing	7.2	defaite	dé+faite	Možná stačá défait+e
+152	gros	sorg	gros	ADJ	Gender=Masc	6.7	gros	gros	
+154	pressé	ésserp	presser	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6.5	presse	pressé	
+155	alison	nosila	Alison	PROPN		6.1	alison	alison	
+156	tentatives	sevitatnet	tentative	NOUN	Gender=Fem|Number=Plur	5.9	tentatives	tentat+ive+s	
+157	annulé	élunna	annuler	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	5.9	annule	a+nnulé	
+158	planètes	setènalp	planète	NOUN	Gender=Fem|Number=Plur	5.5	planetes	planète+s	
+160	puis	siup	pouvoir	VERB		5.2	puis	puis	
+161	entreprendre	erdnerpertne	entreprendre	VERB	VerbForm=Inf	5.0	entreprendre	entre+prendre	
+162	éventuels	sleutnevé	éventuel	ADJ	Gender=Masc|Number=Plur	4.6	eventuels	éventu+el+s	
+163	peggy	yggep	Peggy	PROPN		4.5	peggy	peggy	
+164	deb	bed	Deb	PROPN		4.3	deb	deb	
+167	illégalement	tnemelagélli	illégalement	ADV		3.9	illegalement	il+légal+ement	
+168	laquelle	elleuqal	lequel	PRON	Person=3|PronType=Int	3.8	laquelle	la+quell+e	
+169	réparé	érapér	réparer	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3.7	repare	réparé	
+170	hormis	simroh	hormis	ADP		3.7	hormis	hormis	
+172	représentante	etnatnesérper	représentante	NOUN	Gender=Fem|Number=Sing	3.4	representante	re+présent+ant+e	
+173	explicitement	tnemeticilpxe	explicitement	ADV		3.4	explicitement	explicite+ment	
+174	approchait	tiahcorppa	approcher	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3.2	approchait	a+pproch+ait	
+176	polonais	sianolop	polonais	ADJ	Gender=Masc|Number=Plur	2.7	polonais	polonais	
+177	tentait	tiatnet	tenter	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2.5	tentait	tentait	
+179	chantes	setnahc	chanter	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2.4	chantes	chantes	
+180	intime	emitni	intime	ADJ	Gender=Fem|Number=Sing	2.4	intime	intime	
+181	mandataire	eriatadnam	mandataire	NOUN	Gender=Masc|Number=Sing	2.3	mandataire	mandat+aire	
+182	sieur	rueis	sieur	NOUN	Gender=Masc|Number=Sing	2.2	sieur	sieur	
+184	denny	ynned	Denny	PROPN		2.1	denny	denny	
+185	gob	bog	Gob	PROPN		2.0	gob	gob	
+186	souhaitant	tnatiahuos	souhaiter	VERB	Tense=Pres|VerbForm=Part	1.9	souhaitant	souhait+ant	
+188	belle-fille	ellif-elleb	belle-fille	NOUN	Gender=Fem|Number=Sing	1.8	belle-fille	belle+-fille	
+189	changerai	iaregnahc	changer	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1.7	changerai	chang+erai	
+190	dépourvu	uvruopéd	dépourvoir	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1.7	depourvu	dé+pourvu	
+191	multilatérale	elarétalitlum	multilatéral	ADJ	Gender=Fem|Number=Sing	1.6	multilaterale	multi+latéral+e	
+192	tri	irt	tri	NOUN	Gender=Masc|Number=Sing	1.6	tri	tri	
+193	doutez	zetuod	douter	VERB	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1.5	doutez	dout+ez	
+194	libère	erèbil	libérer	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1.5	libere	libère	
+195	connus	sunnoc	connu	ADJ	Gender=Masc|Number=Plur	1.4	connus	connus	
+197	callahan	nahallac	Callahan	PROPN		1.3	callahan	callahan	
+199	cathéter	retéhtac	cathéter	NOUN	Gender=Masc|Number=Sing	1.1	catheter	cathéter	
+200	ukrainiens	sneiniarku	ukrainien	ADJ	Gender=Masc|Number=Plur	1.1	ukrainiens	ukrain+ien+s	

@@ -1,0 +1,151 @@
+#ID	FORM	REVERTED	LEMMA	UPOS	FEATS	PPM	TRANSLIT	ANNOTATION	COMMENT
+1	έκθεση	ησεθκέ	έκθεση	NOUN	Case=Acc|Gender=Fem|Number=Sing	853.4	ekthese	έκ+θε+σ+η	
+2	ώστε	ετσώ	ώστε	SCONJ		838.2	oste	ώστε	Ancient Greek: Conjunction; ώς+enclitic particle -τε.
+3	κυρία	αίρυκ	κυρία	NOUN	Case=Voc|Gender=Fem|Number=Sing	838.2	kuria	κυρί+α	
+4	τώρα	αρώτ	τώρα	ADV		821.4	tora	τώρ+α	historically from τῇ ὥρᾳ, but we keep it a single morpheme
+5	τρόπο	οπόρτ	τρόπος	NOUN	Case=Acc|Gender=Masc|Number=Sing	817.3	tropo	τρόπ+ο	
+6	αυτή	ήτυα	αυτός	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	796.3	aute	αυτή	
+7	καθώς	ςώθακ	καθώς	ADV		726.4	kathos	καθ+ώς	Ancient Greek: Prefix κατα- (elided)+adverbial ώς.
+8	διότι	ιτόιδ	διότι	SCONJ		719.7	dioti	διότ+ι	"Ancient Greek: διά+ό,τι; ""because of that which."""
+9	σημαντικό	όκιτναμησ	σημαντικός	ADJ	Case=Nom|Gender=Neut|Number=Sing	716.5	semantiko	σημαν+τικ+ό	
+11	ακόμη	ημόκα	ακόμα	ADV		707.1	akome	ακόμ+η	
+12	κοινοβούλιο	οιλύοβονιοκ	κοινοβούλιο	NOUN	Case=Acc|Gender=Neut|Number=Sing	697.1	koinoboulio	κοινοβούλι+ο	Compound: κοιν- (common)+βουλ- (will)+linking -ο-.
+13	έχουμε	εμυοχέ	έχω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	685.9	ekhoume	έχ+ουμε	
+14	μπορούμε	εμύοροπμ	μπορώ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	681.1	mporoume	μπορ+ούμε	
+15	εργασίας	ςαίσαγρε	εργασία	NOUN	Case=Gen|Gender=Fem|Number=Sing	674.1	ergasias	εργασί+ας	
+18	εδώ	ώδε	εδώ	ADV		626.4	edo	εδ+ώ	
+21	κράτη	ητάρκ	κράτος	NOUN	Case=Nom|Gender=Neut|Number=Plur	570.6	krate	κράτ+η	
+22	σας	ςασ	εγώ	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=2|PronType=Prs	558.6	sas	σας	
+23	περισσότερο	ορετόσσιρεπ	πολύ	ADV	Degree=Cmp	529.7	perissotero	περισσότερ+ο	Root περισσ- (excess)+comparative suffix -ότερ-.
+24	μην	νημ	μην	PART		522.9	men	μην	
+26	ενώ	ώνε	ενώ	SCONJ		476.2	eno	εν+ώ	
+27	συμβούλιο	οιλύοβμυσ	συμβούλιο	NOUN	Case=Acc|Gender=Neut|Number=Sing	476.0	sumboulio	συμβούλι+ο	
+28	επομένως	ςωνέμοπε	επομένως	ADV		470.0	epomenos	επομ+έν+ως	In Ancient Greek: Prefix επι-+participle -ομεν-+adverbial suffix -ως.
+29	έκθεσης	ςησεθκέ	έκθεση	NOUN	Case=Gen|Gender=Fem|Number=Sing	457.2	ektheses	έκ+θεσ+ης	
+32	αγοράς	ςάρογα	αγορά	NOUN	Case=Gen|Gender=Fem|Number=Sing	433.2	agoras	αγορ+άς	
+33	επιπλέον	νοέλπιπε	επιπλέον	ADV		417.2	epipleon	επιπλέ+ον	In Ancient Greek: Prefix επι- (on top)+πλέον (more).
+34	συνεπώς	ςώπενυσ	συνεπώς	ADV		409.9	sunepos	συνεπ+ώς	In Ancient Greek: Root απλ- (simple)+adjective ending.
+35	κάθε	εθάκ	κάθε	DET	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Ind	397.6	kathe	κάθ+ε	
+36	γεγονός	ςόνογεγ	γεγονός	NOUN	Case=Nom|Gender=Neut|Number=Sing	389.0	gegonos	γεγον+ός	In Ancient Greek: Reduplicated root γεγ- (become)+participle -ον-.
+37	στόχο	οχότσ	στόχος	NOUN	Case=Acc|Gender=Masc|Number=Sing	373.6	stokho	στόχ+ο	
+38	πριν	νιρπ	πριν	ADV		365.9	prin	πρ+ιν	
+40	μέχρι	ιρχέμ	μέχρι	ADP		327.5	mekhri	μέχρι	
+41	αυτή	ήτυα	αυτός	PRON	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	312.9	aute	αυτή	
+42	απλώς	ςώλπα	απλά	ADV		311.9	aplos	απλ+ώς	In Ancient Greek: Root απλ- (simple)+adjective ending.
+43	πω	ωπ	λέγω	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	308.1	po	π+ω	
+44	παρά	άραπ	παρά	ADP		299.0	para	παρ+ά	
+45	σύστημα	αμητσύσ	σύστημα	NOUN	Case=Acc|Gender=Neut|Number=Sing	293.1	sustema	σύστη+μ+α	In Ancient Greek: Prefix συν-+root στη- (stand)+result suffix -μα.
+47	ζητήματα	αταμήτηζ	ζήτημα	NOUN	Case=Acc|Gender=Neut|Number=Plur	276.2	zetemata	ζητήματα	
+48	εντός	ςότνε	εντός	ADV		263.2	entos	εν+τ+ός	In Ancient Greek: Prefix εν-+adverbial suffix -τος.
+49	συζήτηση	ησητήζυσ	συζήτηση	NOUN	Case=Nom|Gender=Fem|Number=Sing	254.7	suzetese	συζήτη+σ+η	In Ancient Greek: Prefix συν-+ζητ-+action suffix -ηση.
+50	σκοπό	όποκσ	σκοπός	NOUN	Case=Acc|Gender=Masc|Number=Sing	245.5	skopo	σκοπ+ό	
+51	σημαντικό	όκιτναμησ	σημαντικός	ADJ	Case=Acc|Gender=Neut|Number=Sing	234.7	semantiko	σημαν+τικ+ό	
+52	επίτευξη	ηξυετίπε	επίτευξη	NOUN	Case=Acc|Gender=Fem|Number=Sing	220.7	epiteuxe	επίτευ+ξ+η	In Ancient Greek: Prefix επι-+root τευκ- (build/achieve)+-ση.
+53	νομίζω	ωζίμον	νομίζω	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	214.8	nomizo	νομ+ίζ+ω	
+54	νέες	ςεέν	νέος	ADJ	Case=Acc|Gender=Fem|Number=Plur	202.3	nees	νέ+ες	
+55	λόγους	ςυογόλ	λόγος	NOUN	Case=Acc|Gender=Masc|Number=Plur	195.2	logous	λόγ+ους	
+58	προϊόντα	ατνόϊορπ	προϊόν	NOUN	Case=Acc|Gender=Neut|Number=Plur	180.3	proionta	προϊ+όντα	
+59	βήμα	αμήβ	βήμα	NOUN	Case=Acc|Gender=Neut|Number=Sing	177.3	bema	βήμ+α	
+60	υποστήριξη	ηξιρήτσοπυ	υποστήριξη	NOUN	Case=Acc|Gender=Fem|Number=Sing	174.1	uposterixe	υποστήρι+ξ+η	
+62	κορυφής	ςήφυροκ	κορυφή	NOUN	Case=Gen|Gender=Fem|Number=Sing	167.4	koruphes	κορυφ+ής	
+63	κοινού	ύονιοκ	κοινό	NOUN	Case=Gen|Gender=Neut|Number=Sing	163.5	koinou	κοιν+ού	
+64	επιπτώσεις	ςιεσώτπιπε	επίπτωση	NOUN	Case=Acc|Gender=Fem|Number=Plur	152.1	epiptoseis	επιπτώσ+εις	
+65	τις	ςιτ	εγώ	PRON	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Prs	151.4	tis	τις	
+71	αποφάσεις	ςιεσάφοπα	απόφαση	NOUN	Case=Acc|Gender=Fem|Number=Plur	133.0	apophaseis	αποφάσ+εις	
+72	εξωτερικής	ςήκιρετωξε	εξωτερικός	ADJ	Case=Gen|Gender=Fem|Number=Sing	130.6	exoterikes	εξ+ωτερ+ικ+ής	Prefix εξ- (out)+-ωτερ- (contrast)+-ικ-.
+73	σταθερότητας	ςατητόρεθατσ	σταθερότητα	NOUN	Case=Gen|Gender=Fem|Number=Sing	126.2	statherotetas	σταθερότητ+ας	
+74	ανταγωνισμού	ύομσινωγατνα	ανταγωνισμός	NOUN	Case=Gen|Gender=Masc|Number=Sing	125.5	antagonismou	ανταγωνισμ+ού	
+75	διεθνή	ήνθειδ	διεθνής	ADJ	Case=Acc|Gender=Fem|Number=Sing	120.1	diethne	διεθν+ή	δι- ιs an allomorph of διά-
+78	όλων	νωλό	όλος	ADJ	Case=Gen|Gender=Fem|Number=Plur	110.8	olon	όλ+ων	
+81	παρούσα	ασύοραπ	παρών	ADJ	Case=Nom|Gender=Fem|Number=Sing	107.4	parousa	παρ+ούσα	In Ancient Greek: Prefix παρα-+feminine participle ουσα (being).
+82	αλλαγές	ςέγαλλα	αλλαγή	NOUN	Case=Acc|Gender=Fem|Number=Plur	107.3	allages	αλλαγές	
+84	αναφέρεται	ιατερέφανα	αναφέρω	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	104.6	anapheretai	αναφέρ+εται	
+86	κάτω	ωτάκ	κάτω	ADV		100.6	kato	κάτ+ω	
+88	αντιμετωπίζουμε	εμυοζίπωτεμιτνα	αντιμετωπίζω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	97.1	antimetopizoume	αντι+μετωπίζ+ουμε	
+89	αυτήν	νήτυα	αυτός	PRON	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem	94.9	auten	αυτήν	
+90	ενίσχυσης	ςησυχσίνε	ενίσχυση	NOUN	Case=Gen|Gender=Fem|Number=Sing	94.6	eniskhuses	εν+ίσχυσ+ης	
+91	όργανα	αναγρό	όργανο	NOUN	Case=Nom|Gender=Neut|Number=Plur	91.3	organa	όργαν+α	
+92	επιθυμούν	νύομυθιπε	επιθυμώ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	90.1	epithumoun	επιθυμ+ούν	
+93	αυτών	νώτυα	αυτός	DET	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Dem	86.3	auton	αυτ+ών	
+95	ελεύθερη	ηρεθύελε	ελεύθερος	ADJ	Case=Acc|Gender=Fem|Number=Sing	79.6	eleuthere	ελεύθερ+η	
+97	ένα	ανέ	ένας	NUM	Case=Acc|Gender=Neut|Number=Sing|NumType=Card	73.5	ena	έν+α	
+98	αύξησης	ςησηξύα	αύξηση	NOUN	Case=Gen|Gender=Fem|Number=Sing	72.8	auxeses	αύξησ+ης	
+99	προσεκτικά	άκιτκεσορπ	προσεκτικά	ADV		71.8	prosektika	προσεκτικ+ά	In Ancient Greek: Prefix προς-+εχ- (hold)+-ικ-+adverbial -α.
+100	κοινωνικών	νώκινωνιοκ	κοινωνικός	ADJ	Case=Gen|Gender=Fem|Number=Plur	70.3	koinonikon	κοινωνικ+ών	
+101	συνεδρίαση	ησαίρδενυσ	συνεδρίαση	NOUN	Case=Acc|Gender=Fem|Number=Sing	69.8	sunedriase	συνεδρία+σ+η	
+102	κανονισμούς	ςύομσινονακ	κανονισμός	NOUN	Case=Acc|Gender=Masc|Number=Plur	68.7	kanonismous	κανονισμ+ούς	
+103	μεταναστών	νώτσανατεμ	μεταναστής	NOUN	Case=Gen|Gender=Masc|Number=Plur	68.6	metanaston	μεταναστ+ών	In Ancient Greek: Root μετά (after)+ναίω (connect).
+104	λαμβάνονται	ιατνονάβμαλ	λαμβάνω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	64.9	lambanontai	λαμβάν+ονται	
+106	δεύτερο	ορετύεδ	δεύτερος	ADJ	Case=Nom|Gender=Neut|Number=Sing|NumType=Ord	64.1	deutero	δεύτερ+ο	
+107	ποε	εοπ	ΠΟΕ	NOUN	Abbr=Yes	63.9	poe	ποε	Abbreviation, not useful for our analysis
+108	εναντίον	νοίτνανε	εναντίον	ADP		61.4	enantion	εν+αντί+ον	In Ancient Greek: Prefix εν-+αντι- (against)+neuter ending.
+109	τεράστια	αιτσάρετ	τεράστιος	ADJ	Case=Acc|Gender=Fem|Number=Sing	61.2	terastia	τεράστι+α	
+110	ανακοίνωση	ησωνίοκανα	ανακοίνωση	NOUN	Case=Acc|Gender=Fem|Number=Sing	60.1	anakoinose	ανα+κοίνω+σ+η	
+111	ευθύνες	ςενύθυε	ευθύνη	NOUN	Case=Acc|Gender=Fem|Number=Plur	58.5	euthunes	ευθύν+ες	
+112	διάσταση	ησατσάιδ	διάσταση	NOUN	Case=Acc|Gender=Fem|Number=Sing	55.6	diastase	διάστα+σ+η	
+113	επιτρέψουμε	εμυοψέρτιπε	επιτρέπω	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	55.1	epitrepsoume	επιτρέψ+ουμε	
+114	ίδιοι	ιοιδί	ίδιος	ADJ	Case=Nom|Gender=Masc|Number=Plur	53.3	idioi	ίδι+οι	
+115	αντιθέτως	ςωτέθιτνα	αντίθετα	ADV		53.2	antithetos	αντιθέτ+ως	
+117	διάσκεψη	ηψεκσάιδ	διάσκεψη	NOUN	Case=Nom|Gender=Fem|Number=Sing	49.2	diaskepse	διάσκεψ+η	
+118	νόμο	ομόν	νόμος	NOUN	Case=Acc|Gender=Masc|Number=Sing	48.7	nomo	νόμ+ο	
+119	υπηρεσία	αίσερηπυ	υπηρεσία	NOUN	Case=Nom|Gender=Fem|Number=Sing	47.9	uperesia	υπηρεσί+α	In Ancient Greek: Prefix υπο-+root ερετ- (row/serve)+-ια.
+120	αυτοκινήτων	νωτήνικοτυα	αυτοκίνητο	NOUN	Case=Gen|Gender=Neut|Number=Plur	46.2	autokineton	αυτο+κινήτ+ων	
+121	κεφάλαια	αιαλάφεκ	κεφάλαιο	NOUN	Case=Acc|Gender=Neut|Number=Plur	44.9	kephalaia	κεφάλ+αι+α	
+122	κάπως	ςωπάκ	κάπως	ADV		44.5	kapos	κάπ+ως	
+124	πέρυσι	ισυρέπ	πέρυσι	ADV		40.3	perusi	πέρυσ+ι	
+127	άκρως	ςωρκά	άκρα	ADV		36.7	akros	άκρ+ως	
+128	δίκτυα	αυτκίδ	δίκτυο	NOUN	Case=Acc|Gender=Neut|Number=Plur	35.0	diktua	δίκτυ+α	
+130	αναπτυχθεί	ίεθχυτπανα	αναπτύσσω	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Pass	32.6	anaptukhthei	αναπτυχθ+εί	
+131	πτυχές	ςέχυτπ	πτυχή	NOUN	Case=Nom|Gender=Fem|Number=Plur	31.0	ptukhes	πτυχ+ές	
+132	καταβάλουμε	εμυολάβατακ	καταβάλλω	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	30.2	katabaloume	καταβάλ+ουμε	
+134	διακρίσεις	ςιεσίρκαιδ	διάκριση	NOUN	Case=Nom|Gender=Fem|Number=Plur	27.0	diakriseis	διακρίσ+εις	
+135	σημειώθηκε	εκηθώιεμησ	σημειώνω	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass	26.6	semeiotheke	σημειώθ+ηκε	
+137	τραπέζι	ιζέπαρτ	τραπέζι	NOUN	Case=Acc|Gender=Neut|Number=Sing	22.1	trapezi	τραπέζ+ι	
+139	ιταλίας	ςαίλατι	Ιταλία	PROPN	Case=Gen|Gender=Fem|Number=Sing	21.2	italias	ιταλί+ας	
+140	σεπτέμβριο	οιρβμέτπεσ	Σεπτέμβριος	PROPN	Case=Acc|Gender=Masc|Number=Sing	20.6	septembrio	σεπτέμβρι+ο	
+141	απόδειξη	ηξιεδόπα	απόδειξη	NOUN	Case=Acc|Gender=Fem|Number=Sing	19.9	apodeixe	απόδει+ξ+η	
+142	περιλαμβανομένης	ςηνέμοναβμαλιρεπ	περιλαμβανόμενος	VERB	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Pass	19.3	perilambanomenes	περιλαμβανομέν+ης	
+143	λήψη	ηψήλ	λήψη	NOUN	Case=Nom|Gender=Fem|Number=Sing	18.6	lepse	λήψ+η	
+145	συνεκτική	ήκιτκενυσ	συνεκτικός	ADJ	Case=Acc|Gender=Fem|Number=Sing	17.8	sunektike	συνεκ+τικ+ή	
+146	κύρια	αιρύκ	κύριος	ADJ	Case=Nom|Gender=Fem|Number=Sing	17.5	kuria	κύρι+α	
+147	επόμενο	ονεμόπε	επόμενος	ADJ	Case=Acc|Gender=Masc|Number=Sing	17.4	epomeno	επόμεν+ο	
+148	έκκληση	ησηλκκέ	έκκληση	NOUN	Case=Nom|Gender=Fem|Number=Sing	16.8	ekklese	έκ+κλη+σ+η	
+150	ενημέρωση	ησωρέμηνε	ενημέρωση	NOUN	Case=Nom|Gender=Fem|Number=Sing	15.7	enemerose	εν+ημέρω+σ+η	Prefix εν-+ημέρ- (day/tame)+process suffix -ωση.
+152	ειρηνευτική	ήκιτυενηριε	ειρηνευτικός	ADJ	Case=Acc|Gender=Fem|Number=Sing	14.2	eireneutike	ειρηνευ+τικ+ή	
+154	τασσόμαστε	ετσαμόσσατ	τίσκω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Pass	13.0	tassomaste	τασσ+όμαστε	
+155	αϊτής	ςήτϊα	αϊτός	PROPN	Case=Gen|Gender=Fem|Number=Sing	12.8	aites	αϊτ+ής	Should be written with initial capital letter as a proper noun: Αϊτή+ς
+156	ορισμού	ύομσιρο	ορισμός	NOUN	Case=Gen|Gender=Masc|Number=Sing	12.5	orismou	ορισμ+ού	
+157	απλούς	ςύολπα	απλός	ADJ	Case=Acc|Gender=Masc|Number=Plur	11.5	aplous	απλ+ούς	In Ancient Greek, it is the same: Root απλ- (single/simple)+adjective ending.
+158	ενώσεις	ςιεσώνε	ενώση	NOUN	Case=Acc|Gender=Fem|Number=Plur	11.4	enoseis	εν+ώσ+εις	
+160	προειδοποίησης	ςησηίοποδιεορπ	προειδοποίηση	NOUN	Case=Gen|Gender=Fem|Number=Sing	10.7	proeidopoieses	προ+ειδοποίησ+ης	
+161	απέχουμε	εμυοχέπα	απέχω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	10.6	apekhoume	απέχ+ουμε	
+162	αποφύγει	ιεγύφοπα	αποφεύγω	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	10.5	apophugei	αποφύγ+ει	root φυγ- (flee), allomorph of φευγ-.
+163	επισημάνατε	ετανάμησιπε	επισημαίνω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	10.2	episemanate	επισημάν+ατε	Prefix επι-+root σημ- (sign)+aorist past marker.
+164	μαθήματα	αταμήθαμ	μάθημα	NOUN	Case=Acc|Gender=Neut|Number=Plur	10.1	mathemata	μαθήμ+ατα	
+167	νησί	ίσην	νησί	NOUN	Case=Acc|Gender=Neut|Number=Sing	8.5	nesi	νησ+ί	
+168	φορολογικές	ςέκιγολοροφ	φορολογικός	ADJ	Case=Acc|Gender=Fem|Number=Plur	8.2	phorologikes	φορολογικ+ές	
+169	πολέμους	ςυομέλοπ	πόλεμος	NOUN	Case=Acc|Gender=Masc|Number=Plur	8.2	polemous	πολέμ+ους	
+170	μεταφέρω	ωρέφατεμ	μεταφέρω	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	7.9	metaphero	μετα+φέρ+ω	
+172	συμμάχους	ςυοχάμμυσ	συμμάχος	NOUN	Case=Acc|Gender=Masc|Number=Plur	7.4	summakhous	συμμάχ+ους	"Same in ancient Greek: Prefix συν-+root μαχ- (fight). ""Those fighting together."""
+173	-που	υοπ-	-που	PRON		7.0	-pou	-π+ου	
+174	έδρας	ςαρδέ	έδρα	NOUN	Case=Gen|Gender=Fem|Number=Sing	6.9	edras	έδρ+ας	
+176	κακές	ςέκακ	κακός	ADJ	Case=Acc|Gender=Fem|Number=Plur	6.4	kakes	κακ+ές	
+177	ευθέως	ςωέθυε	ευθέως	ADV		6.1	eutheos	ευθέως	
+179	ίδρυμα	αμυρδί	ίδρυμα	NOUN	Case=Nom|Gender=Neut|Number=Sing	5.5	idruma	ίδρυ+μ+α	
+180	γη	ηγ	γη	NOUN	Case=Nom|Gender=Fem|Number=Sing	5.0	ge	γη	
+181	διακυμάνσεις	ςιεσνάμυκαιδ	σύακυμάαση	NOUN	Case=Acc|Gender=Fem|Number=Plur	4.8	diakumanseis	διακυμάνσ+εις	
+182	εταιριών	νώιριατε	εταιρία	NOUN	Case=Gen|Gender=Fem|Number=Plur	4.7	etairion	εταιρ+ι+ών	
+184	τρίτη	ητίρτ	Τρίτη	NOUN	Case=Acc|Gender=Fem|Number=Sing	4.2	trite	τρίτ+η	
+185	ευρωβουλευτής	ςήτυελυοβωρυε	ευρωβουλευτής	NOUN	Case=Nom|Gender=Masc|Number=Sing	4.2	eurobouleutes	ευρωβουλευ+τ+ής	
+186	πολωνούς	ςύονωλοπ	Πολωνός	PROPN	Case=Acc|Gender=Masc|Number=Plur	4.1	polonous	πολων+ούς	
+188	ανοικτού	ύοτκιονα	ανοικτός	ADJ	Case=Gen|Gender=Masc|Number=Sing	3.9	anoiktou	ανοικτ+ού	
+189	αντιστοίχως	ςωχίοτσιτνα	αντιστοίχως	ADV		3.8	antistoikhos	αντιστοίχως	
+190	εξεύρουμε	εμυορύεξε	εξεύρω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3.5	exeuroume	εξ+εύρ+ουμε	
+191	επιτακτικά	άκιτκατιπε	επιτακτικά	ADV		3.4	epitaktika	επιτακτικ+ά	
+192	τιμούμε	εμύομιτ	τιμώ	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3.3	timoume	τιμ+ούμε	
+193	ψέματα	αταμέψ	ψέμα	NOUN	Case=Acc|Gender=Neut|Number=Plur	3.2	psemata	ψέμ+ατα	Τhere is an allomorph in neuters' root ending in -a in greek, psema- ~ psemat-
+194	προσυπογράφω	ωφάργοπυσορπ	προσυπογράφω	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3.1	prosupographo	προσυπογράφ+ω	γραφ- (graf-) is the root
+195	υπερδνειστερίας	ςαίρετσιενδρεπυ	υπερδνειστερία	NOUN	Case=Gen|Gender=Fem|Number=Sing	2.8	uperdneisterias	υπερ+δνειστερί+ας	
+197	υπονομεύονται	ιατνούεμονοπυ	υπονομεύω	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	2.6	uponomeuontai	υπο+νομεύ+ονται	
+199	υπολογίσουμε	εμυοσίγολοπυ	υπολογίζω	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	2.4	upologisoume	υπολογίσ+ουμε	Allomorph in root: λογισ-, λογιζ-
+200	σκληρό	όρηλκσ	σκληρός	ADJ	Case=Acc|Gender=Neut|Number=Sing	2.4	sklero	σκληρ+ό	

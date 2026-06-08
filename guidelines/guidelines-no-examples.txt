@@ -1,0 +1,88 @@
+Guidelines for Unified Morph Segmentation in Multiple Languages
+1 Intro
+
+The aim of the project is to investigate the internal structure of words in individual languages and to
+compare this structure across languages. 
+Within the project, we adopt the traditional distinction between morpheme and morph. A morpheme is understood as the smallest linguistic unit that links form and meaning. A morpheme is instantiated in actual words by a morph. Some morphs may occur independently as mono-morphemic words, while others appear only in combination with other morphs and thus constitute parts of multi-morphemic words. If a single morpheme has multiple formally distinct realizations, this is referred to as allomorphy. In the project, we proceed bottom-up, that is, by identifying morphs in the attested linguistic material.
+The assignment of morphs to morphemes as more abstract units will be addressed in the next phase of the project; essentially, it will involve a process analogous to lemmatization, whereby an inflected word form is linked to its dictionary form.
+
+2 Basic principles of morph segmentation
+
+We will work with authentic linguistic material. The task will be to segment word forms extracted from text corpora into morphs.
+The basic principles for the planned morph segmentation are as follows:
+
+• Maximum segmentation:
+The goal is to find all possible morphs in a segmented word form, i.e., to completely decompose
+only the inflectional formant (divide the inflected form into the base stem), or to find only the last added derivational affix.
+
+• Delimitation of morphs in corpus-attested forms:
+Morphs will be identified in word forms as they appear in text corpora. The project does not aim
+at modeling word-formation processes, where a motivating word is sought for a more complex
+word.
+
+• Morph as a re-occurring unit:
+Morphs are expected to re-occur in multiple different word forms. Comparing forms in these
+sets—ideally consisting of at least three members—is the basic principle for identifying morphs.e
+
+• Cranberry morphs vs. no segmentation
+If, based on analogy, it is possible to distinguish only some morphs in a word, the remaining
+substring can also be considered a morph (cranberry morph), if it is synchronically recognizable.
+
+• Formal and semantic criteria:
+Although a morph is considered a formal unit, we also use semantic criteria to delimit it. It
+should be a string that can be associated with some (lexical, derivational, inflectional) meaning.
+
+• Free and bound morphs:
+
+3 Simple examples
+While in English we encounter mono-morphemic words (simplexes) across all parts of speech, in Ger-
+In this segmentation project, we do not work with the concept of zero morphs, i.e., morphs with
+a graphically unrealized form. some morphological approaches posit zero morphs in positions where
+related forms show an overt exponent.
+Proper names may also appear in the data. In the project, we want to treat them similarly to common
+names: their internal structure is analyzed if it is synchronously apparent.
+
+3.1 Simplexes are not segmented
+
+3.2 Complex words containing a root and inflectional morphs
+
+Because all letters in the data samples for all languages are normalized to lowercase, the graphic distinction of proper
+names by capitalization, used in some languages, is lost. This is not an error.
+
+4 More challenging examples
+
+4.1 Allomorphy
+Some letters can be considered both the final element of one morph and the initial letter of the
+following morph (cf. e in writer). However, since in this step we only divide attested word forms into
+substrings, the disputed letter cannot be placed in both morphs at the same time. In such cases, we assign
+the disputed letter to the second morph, which may increase the allomorphy of the first morph (cf. the
+Contracted forms are also merely divided into segments belonging to originally separate words, but
+the full form of these words is not reconstructed.
+Abbreviations are also segmented if the internal structure is transparent.
+Internal modification (vowel and consonant alternations) that might happen inside the roots are not a
+reason for root segmentation, even though some concepts proceed in this way (discontinuous stems).
+Here, these roots are understood as allomorphs.
+
+4.2 Segmentation of pronominal words
+Pronouns and other pronominal expressions should be segmented only to the extent that the identified
+morphs are synchronically attested across multiple forms in the language.
+Synchronically non-transparent pronominal (personal, possessive, demonstrative or interrogative)
+substrings are not expected to be delimited at this stage of the project, even though they recur across
+forms.
+
+4.3 Segmentation of numeral expressions
+Similarly, numerals are analyzed internally only when their structure is synchronically transparent.
+
+4.4 Segmentation of non-inflected word classes
+Words that function as both inflected and uninflected parts of speech (e.g., nouns and prepositions)
+are segmented identically in both functions.
+
+4.5 Segmentation of loanwords
+In the data used for segmentation, which are randomly sampled from frequency lists extracted from the
+InterCorp corpora, loanwords are not distinguished from native (inherited) words. In the segmentation
+process, we aim to treat loanwords as much like native words as possible (identifying inflectional end-
+ings, comparing structure across sets sharing the same substring, etc.), while still respecting the structure
+of the current language. We do not impose identical structural analyses of corresponding words across
+different languages.
+
+End of guidelines.

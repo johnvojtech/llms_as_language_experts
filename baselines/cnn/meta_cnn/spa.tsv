@@ -1,0 +1,151 @@
+#ID	FORM	REVERTED	LEMMA	UPOS	FEATS	PPM	TRANSLIT	ANNOTATION	COMMENT
+1	va	av	ir	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	776.5	va	va	
+2	usted	detsu	tú	PRON	Case=Acc|Case=Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	773.5	usted	ust+ed	
+3	siento	otneis	sentir	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	757.2	siento	sient+o	
+4	hace	ecah	hacer	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	753.0	hace	hac+e	
+5	años	soña	año	NOUN	Gender=Masc|Number=Plur	701.7	anos	año+s	
+6	siempre	erpmeis	siempre	ADV		667.1	siempre	siempre	
+7	día	aíd	día	NOUN	Gender=Masc|Number=Sing	618.9	dia	día	
+8	ahí	íha	ahí	ADV		618.6	ahi	ahí	
+9	se	es	él	PRON	Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	607.1	se	se	
+11	están	nátse	estar	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	583.9	estan	est+án	
+12	trabajo	ojabart	trabajo	NOUN	Gender=Masc|Number=Sing	579.9	trabajo	trabajo	
+13	todos	sodot	todo	PRON	Gender=Masc|Number=Plur|PronType=Tot	568.9	todos	tod+os	
+14	parece	ecerap	parecer	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	543.2	parece	par+ec+e	
+15	nadie	eidan	nadie	PRON	Number=Sing|PronType=Neg	517.7	nadie	nadie	
+18	donde	ednod	donde	ADV	PronType=Rel	481.3	donde	donde	
+21	cosa	asoc	cosa	NOUN	Gender=Fem|Number=Sing	408.1	cosa	cosa	
+22	visto	otsiv	ver	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	379.2	visto	vist+o	
+23	tal	lat	tal	NOUN		369.5	tal	tal	
+24	hemos	someh	haber	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	345.1	hemos	hemos	
+26	bueno	oneub	buen	ADJ	Gender=Masc|Number=Sing	337.3	bueno	buen+o	
+27	cuenta	atneuc	cuenta	NOUN	Gender=Fem|Number=Sing	327.6	cuenta	cuent+a	
+28	forma	amrof	forma	NOUN	Gender=Fem|Number=Sing	313.5	forma	forma	
+29	quien	neiuq	quien	PRON	Number=Sing|PronType=Int|PronType=Rel	298.3	quien	quien	
+32	estaba	abatse	estar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	256.9	estaba	est+aba	
+33	mismo	omsim	mismo	DET	Gender=Masc|Number=Sing|PronType=Dem	243.5	mismo	mism+o	
+34	aunque	euqnua	aunque	SCONJ		230.5	aunque	aunque	
+35	tu	ut	tu	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	221.6	tu	tu	
+36	hablando	odnalbah	hablar	VERB	VerbForm=Ger	220.6	hablando	habl+ando	
+37	chicos	socihc	chico	NOUN	Gender=Masc|Number=Plur	217.1	chicos	chic+os	
+38	año	oña	año	NOUN	Gender=Masc|Number=Sing	211.1	ano	año	
+40	minutos	sotunim	minuto	NOUN	Gender=Masc|Number=Plur	193.9	minutos	minuto+s	
+41	ese	ese	ese	PRON	Gender=Masc|Number=Sing|PronType=Dem	189.4	ese	es+e	
+42	suerte	etreus	suerte	NOUN	Gender=Fem|Number=Sing	183.1	suerte	suerte	
+43	meses	sesem	mes	NOUN	Gender=Masc|Number=Plur	180.4	meses	mes+es	
+44	difícil	licífid	difícil	ADJ	Number=Sing	174.1	dificil	di+fícil	
+45	embargo	ograbme	embargo	NOUN	Gender=Masc|Number=Sing	162.2	embargo	embarg+o	
+47	millones	senollim	millón	NOUN	Gender=Masc|Number=Plur	152.7	millones	millon+es	mil = tisic
+48	otras	sarto	otro	DET	Gender=Fem|Number=Plur|PronType=Ind	148.7	otras	otr+as	
+49	tampoco	ocopmat	tampoco	ADV		142.1	tampoco	tampoc+o	
+50	auto	otua	auto	NOUN	Gender=Masc|Number=Sing	138.3	auto	auto	
+51	fiesta	atseif	fiesta	NOUN	Gender=Fem|Number=Sing	137.9	fiesta	fiesta	
+52	palabra	arbalap	palabra	NOUN	Gender=Fem|Number=Sing	128.3	palabra	palabra	
+53	justo	otsuj	justo	ADV		122.4	justo	just+o	
+54	grupo	opurg	grupo	NOUN	Gender=Masc|Number=Sing	115.2	grupo	grupo	
+55	libre	erbil	libre	ADJ	Number=Sing	113.8	libre	libre	
+58	acaba	abaca	acabar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	105.5	acaba	acaba	
+59	murió	óirum	morir	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	102.2	murio	mur+ió	
+60	protección	nóiccetorp	protección	NOUN	Gender=Fem|Number=Sing	98.2	proteccion	pro+tección	
+62	pienso	osneip	pensar	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	93.1	pienso	pienso	
+63	fuego	ogeuf	fuego	NOUN	Gender=Masc|Number=Sing	91.7	fuego	fueg+o	
+64	dime	emid	dimar	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	91.4	dime	dim+e	lemma = decir
+65	fuerza	azreuf	fuerza	NOUN	Gender=Fem|Number=Sing	90.0	fuerza	fuerza	
+71	propuesta	atseuporp	propuesta	NOUN	Gender=Fem|Number=Sing	79.1	propuesta	pro+puest+a	
+72	apenas	sanepa	apenas	ADV		74.6	apenas	apena+s	
+73	entrada	adartne	entrada	NOUN	Gender=Fem|Number=Sing	73.1	entrada	entr+ad+a	
+74	mitad	datim	mitad	NOUN	Gender=Fem|Number=Sing	70.9	mitad	mitad	
+75	transporte	etropsnart	transporte	NOUN	Gender=Masc|Number=Sing	65.4	transporte	trans+porte	
+78	acciones	senoicca	acción	NOUN	Gender=Fem|Number=Plur	57.8	acciones	accion+es	
+81	entendido	odidnetne	entendido	ADJ	Gender=Masc|Number=Sing|VerbForm=Part	51.7	entendido	en+tend+ido	
+82	profesor	roseforp	profesor	NOUN	Gender=Masc|Number=Sing	51.5	profesor	profesor	
+84	quise	esiuq	querer	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	45.6	quise	quis+e	
+86	diferentes	setnerefid	diferente	ADJ	Number=Plur	44.3	diferentes	di+fer+ente+s	
+88	productores	serotcudorp	productor	NOUN	Gender=Masc|Number=Plur	43.0	productores	pro+duct+or+es	
+89	probar	raborp	probar	VERB	VerbForm=Inf	41.4	probar	prob+ar	
+90	oferta	atrefo	oferta	NOUN	Gender=Fem|Number=Sing	41.2	oferta	ofert+a	
+91	registro	ortsiger	registro	NOUN	Gender=Masc|Number=Sing	40.7	registro	registr+o	
+92	jimmy	ymmij	Jimmy	PROPN		38.3	jimmy	jimmy	
+93	fuente	etneuf	fuente	NOUN	Gender=Fem|Number=Sing	37.9	fuente	fuente	
+95	dejes	sejed	dejar	VERB	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	36.2	dejes	dej+es	
+97	comenzó	óznemoc	comenzar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34.8	comenzo	comenz+ó	
+98	búsqueda	adeuqsúb	búsqueda	NOUN	Gender=Fem|Number=Sing	34.5	busqueda	búsqued+a	
+99	mayores	seroyam	mayor	ADJ	Degree=Cmp|Number=Plur	32.5	mayores	mayor+es	
+100	entrará	árartne	entrar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	32.0	entrara	entr+ará	
+101	negociaciones	senoicaicogen	negociación	NOUN	Gender=Fem|Number=Plur	30.7	negociaciones	negoci+acion+es	
+102	controlar	ralortnoc	controlar	VERB	VerbForm=Inf	30.0	controlar	control+ar	
+103	consumidores	serodimusnoc	consumidor	NOUN	Gender=Masc|Number=Plur	29.1	consumidores	consum+idor+es	
+104	decidir	ridiced	decidir	VERB	VerbForm=Inf	29.0	decidir	decid+ir	
+106	internet	tenretni	Internet	PROPN		27.4	internet	intern+et	
+107	vayan	nayav	ir	VERB	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27.3	vayan	vay+an	
+108	éramos	somaré	ser	AUX	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	26.7	eramos	ér+amos	
+109	esperamos	somarepse	esperar	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	25.7	esperamos	esper+amos	
+110	sepas	sapes	sepa	VERB	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	24.7	sepas	sepa+s	lemma = saber
+111	contratos	sotartnoc	contrato	NOUN	Gender=Masc|Number=Plur	23.6	contratos	contrat+os	
+112	vivía	aíviv	vivir	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23.2	vivia	viv+ía	
+113	central	lartnec	central	ADJ	Number=Sing	23.2	central	centr+al	
+114	enviado	odaivne	enviar	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23.2	enviado	envi+ad+o	
+115	frecuencia	aicneucerf	frecuencia	NOUN	Gender=Fem|Number=Sing	21.3	frecuencia	frecu+encia	
+117	mía	aím	mío	DET	Gender=Fem|Number=Sing	19.9	mia	mía	
+118	santo	otnas	santo	ADJ	Gender=Masc|Number=Sing	19.4	santo	santo	
+119	reconocer	reconocer	reconocer	VERB	VerbForm=Inf	19.0	reconocer	re+conoc+er	
+120	guión	nóiug	guión	NOUN	Gender=Masc|Number=Sing	17.8	guion	guión	
+121	asesinos	sonisesa	asesino	NOUN	Gender=Masc|Number=Plur	17.4	asesinos	asesin+os	
+122	jones	senoj	Jones	PROPN		16.8	jones	jon+es	
+124	karen	nerak	Karen	PROPN		14.9	karen	karen	
+127	reto	oter	reto	NOUN	Gender=Masc|Number=Sing	14.2	reto	ret+o	
+128	gafas	safag	gafa	NOUN	Gender=Fem|Number=Plur	14.2	gafas	gaf+a+s	
+130	sucedido	odidecus	suceder	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13.7	sucedido	suced+id+o	
+131	espía	aípse	espía	NOUN	Number=Sing	13.0	espia	espía	
+132	hallar	rallah	hallar	VERB	VerbForm=Inf	12.6	hallar	hall+ar	
+134	patas	satap	pata	NOUN	Gender=Fem|Number=Plur	12.0	patas	pat+as	
+135	entorno	onrotne	entorno	NOUN	Gender=Masc|Number=Sing	11.4	entorno	en+torno	
+137	células	saluléc	célula	NOUN	Gender=Fem|Number=Plur	11.0	celulas	célula+s	
+139	desperté	étrepsed	despertar	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	10.6	desperte	des+pert+é	
+140	listas	satsil	lista	NOUN	Gender=Fem|Number=Plur	10.6	listas	list+a+s	
+141	observa	avresbo	observar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10.6	observa	ob+serv+a	
+142	bandas	sadnab	banda	NOUN	Gender=Fem|Number=Plur	9.7	bandas	banda+s	
+143	desafíos	soífased	desafío	NOUN	Gender=Masc|Number=Plur	9.4	desafios	des+afí+os	-a for pronounciation, fio = derived from fiar
+145	rehabilitación	nóicatilibaher	rehabilitación	NOUN	Gender=Fem|Number=Sing	9.1	rehabilitacion	rehabil+it+ación	
+146	delicado	odaciled	delicado	ADJ	Gender=Masc|Number=Sing	8.4	delicado	delic+ad+o	
+147	dormía	aímrod	dormir	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8.2	dormia	dormí+a	
+148	músculos	solucsúm	músculo	NOUN	Gender=Masc|Number=Plur	8.0	musculos	múscul+os	
+150	bart	trab	Bart	PROPN		7.4	bart	bart	
+152	diente	etneid	diente	NOUN	Gender=Masc|Number=Sing	6.7	diente	diente	
+154	planteamiento	otneimaetnalp	planteamiento	NOUN	Gender=Masc|Number=Sing	6.3	planteamiento	plant+e+amiento	
+155	presentan	natneserp	presentar	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6.1	presentan	pre+sent+an	
+156	patrimonio	oinomirtap	patrimonio	NOUN	Gender=Masc|Number=Sing	5.7	patrimonio	patrimonio	
+157	arruinó	óniurra	arruinar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5.7	arruino	a+rruin+ó	
+158	pesquera	areuqsep	pesquero	ADJ	Gender=Fem|Number=Sing	5.4	pesquera	pesquer+a	
+160	acercaba	abacreca	acercar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4.7	acercaba	a+cerc+aba	
+161	cen	nec	CEN	PROPN		4.5	cen	cen	
+162	fitz	ztif	Fitz	PROPN		4.1	fitz	fitz	
+163	sacaba	abacas	sacar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3.9	sacaba	sac+aba	
+164	li	il	Li	PROPN		3.6	li	li	
+167	salvará	áravlas	salvar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3.2	salvara	salv+ará	
+168	taquilla	alliuqat	taquilla	NOUN	Gender=Fem|Number=Sing	3.2	taquilla	taquill+a	
+169	notificará	áracifiton	notificar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3.0	notificara	noti+fic+ará	
+170	royal	layor	Royal	PROPN		3.0	royal	royal	
+172	ganaremos	someranag	ganar	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	2.8	ganaremos	gan+aremos	
+173	cometido	oditemoc	cometido	NOUN	Gender=Masc|Number=Sing	2.8	cometido	comet+id+o	
+174	borrado	odarrob	borrar	VERB	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2.8	borrado	borr+ad+o	
+176	irlandesa	asednalri	irlandés	ADJ	Gender=Fem|Number=Sing	2.5	irlandesa	irl+and+es+a	
+177	evidentes	setnedive	evidente	ADJ	Number=Plur	2.5	evidentes	evid+ente+s	
+179	guantánamo	omanátnaug	Guantánamo	PROPN		2.2	guantanamo	guant+ánamo	
+180	vistiendo	odneitsiv	vister	VERB	VerbForm=Ger	2.2	vistiendo	vist+iendo	lemma = vestir
+181	garantizados	sodazitnarag	garantizado	ADJ	Gender=Masc|Number=Plur|VerbForm=Part	2.1	garantizados	garant+iz+ad+os	
+182	morton	notrom	Morton	PROPN		2.0	morton	morton	
+184	elaborada	adarobale	elaborado	ADJ	Gender=Fem|Number=Sing|VerbForm=Part	1.9	elaborada	e+labor+ad+a	
+185	conocerme	emreconoc	conocerme	VERB	VerbForm=Inf	1.8	conocerme	conoc+er+me	
+186	sobrevivimos	somiviverbos	sobrevivir	VERB	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1.8	sobrevivimos	sobre+viv+imos	
+188	maldiciones	senoicidlam	maldición	NOUN	Gender=Fem|Number=Plur	1.6	maldiciones	maldicion+es	
+189	espacial	laicapse	Espacial	PROPN		1.5	espacial	espaci+al	
+190	acumulando	odnalumuca	acumular	VERB	VerbForm=Ger	1.5	acumulando	a+cumul+ando	
+191	mafioso	osoifam	mafioso	NOUN	Gender=Masc|Number=Sing	1.5	mafioso	mafi+os+o	
+192	engañaba	abañagne	engañar	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1.4	enganaba	engañ+aba	
+193	leroy	yorel	Leroy	PROPN		1.4	leroy	leroy	
+194	slytherin	nirehtyls	Slytherin	PROPN		1.3	slytherin	slyth+erin	
+195	garcia	aicrag	Garcia	PROPN		1.2	garcia	garcia	
+197	postre	ertsop	postre	NOUN		1.1	postre	postr+e	
+199	burocráticos	socitárcorub	burocrático	ADJ	Gender=Masc|Number=Plur	1.0	burocraticos	buro+crá+tic+os	
+200	mordor	rodrom	Mordor	PROPN		1.0	mordor	mordor	

@@ -1,0 +1,151 @@
+#ID	FORM	REVERTED	LEMMA	UPOS	FEATS	PPM	TRANSLIT	ANNOTATION	COMMENT
+143	автомобиль	ьлибомотва	автомобиль	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9.2	avtomobil'	авто+мобил+ь	
+193	башка	акшаб	башка	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	1.9	bashka	башк+а	
+199	беспорядков	вокдяропсеб	беспорядки	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	1.7	besporiadkov	бес+по+ряд+к+ов	
+174	благодарим	мирадогалб	благодарить	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	3.9	blagodarim	благо+дар+им	
+7	больше	ешьлоб	больше	ADV	Degree=Cmp	565.4	bol'she	бол+ь+ш+е	
+23	больше	ешьлоб	много	ADV	Degree=Cmp	343.0	bol'she	бол+ь+ш+е	
+177	большому	умошьлоб	большой	ADJ	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	3.4	bol'shomu	бол+ь+ш+ому	
+28	будем	медуб	быть	AUX	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	286.5	budem	буд+ем	
+24	буду	удуб	быть	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	341.1	budu	буду	
+32	вами	имав	вы	PRON	Case=Ins|Number=Plur|Person=2|PronType=Prs	247.2	vami	вам+и	
+40	ваша	ашав	ваш	DET	Case=Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Prs	178.3	vasha	ваш+а	
+131	вправду	удварпв	вправду	ADV	Degree=Pos	14.5	vpravdu	в+прав+д+у	
+118	величество	овтсечилев	Величество	PROPN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20.8	velichestvo	вел+ич+еств+о	
+64	верю	юрев	верить	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	91.9	veriu	вер+ю	
+22	видел	ледив	видеть	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	344.4	videl	видел	
+162	визита	атизив	визит	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5.6	vizita	виз+ит+а	!
+35	во	ов	во	ADP		217.4	vo	во	podobne jako co
+18	вообще	ещбоов	вообще	ADV	Degree=Pos	376.9	voobshche	во+общ+е	
+150	востоке	екотсов	Восток	PROPN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	7.5	vostoke	вос+ток+е	
+59	всё	ёсв	весь	DET	Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	104.4	vsio	вс+ё	
+179	всем	месв	весь	DET	Case=Ins|Gender=Masc|Number=Sing|PronType=Tot	3.1	vsem	вс+ем	
+113	всех	хесв	весь	DET	Case=Acc|Number=Plur|PronType=Tot	25.3	vsekh	всех	
+55	всю	юсв	весь	DET	Case=Acc|Gender=Fem|Number=Sing	117.8	vsiu	вс+ю	
+160	глуп	пулг	глупый	ADJ	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	6.0	glup	глуп	
+120	говорится	ястировог	говорить	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	19.7	govoritsia	говор+ит+ся	
+102	группы	ыппург	группа	NOUN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	33.1	gruppy	групп+ы	
+37	дай	йад	дать	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	200.2	dai	да+й	
+88	двух	хувд	два	NUM	Case=Gen|NumType=Card	49.5	dvukh	двух	
+74	две	евд	два	NUM	Case=Nom|Gender=Fem|NumType=Card	70.9	dve	дв+е	
+172	девушкам	макшувед	девушка	NOUN	Animacy=Anim|Case=Dat|Gender=Fem|Number=Plur	4.2	devushkam	дев+ушк+ам	!
+115	джонни	инножд	Джонни	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	23.1	dzhonni	джонн+и	!
+52	дней	йенд	день	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	127.2	dnei	дн+ей	
+54	довольно	оньловод	довольно	ADV	Degree=Pos	121.5	dovol'no	до+вол+ь+н+о	
+130	добро	орбод	добро	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	15.8	dobro	добр+о	
+29	доктор	роткод	доктор	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	277.1	doktor	доктор	v soucasne rustine asi segmentovat nejde, aspon me nic nenapada
+14	должна	анжлод	должен	ADJ	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	416.8	dolzhna	долж+н+а	
+117	других	хигурд	другой	DET	Case=Gen|Number=Plur	21.5	drugikh	друг+их	
+109	другой	йогурд	другой	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	28.8	drugoi	друг+ой	
+1	его	оге	его	DET	Poss=Yes|PronType=Prs	665.6	ego	его	GRAPH_PROBLEM
+3	ему	уме	он	PRON	Case=Dat|Gender=Masc|Number=Sing|Person=3	617.6	emu	ему	GRAPH_PROBLEM
+182	жалуюсь	ьсюулаж	жаловаться	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	2.7	zhaluius'	жалуюс+ь	GRAPH_PROBLEM
+145	жан	наж	Жан	PROPN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	8.8	zhan	жан	jakypak жан, со to je?
+99	ждал	ладж	ждать	VERB	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35.6	zhdal	ждал	
+92	женщин	нищнеж	женщина	NOUN	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	44.7	zhenshchin	жен+щин	
+161	жестоко	окотсеж	жестоко	ADV	Degree=Pos	6.0	zhestoko	жесток+о	
+47	жизни	инзиж	жизнь	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	145.1	zhizni	жи+зн+и	
+157	журнале	еланруж	журнал	NOUN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6.5	zhurnale	журнал+е	
+148	заметит	титемаз	заметить	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	7.8	zametit	за+мет+ит	
+176	защищают	тюащищаз	защищать	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3.4	zashchishchaiut	за+щищ+ают	
+139	закону	уноказ	закон	NOUN	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	10.5	zakonu	за+кон+у	da se oddelit - za-, ale nedokazu ted presne rict, jestli je v rustine neco s korenem kon stejne etimologie
+164	здорова	авородз	здоровый	ADJ	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5.3	zdorova	здоров+а	з+доров+а (pochazi od *derv, ale neni to viditelne)
+27	значит	тичанз	значит	ADV	Degree=Pos	295.3	znachit	зна+ч+ит	
+110	зря	ярз	зря	ADV	Degree=Pos	28.3	zria	зр+я	
+180	иерусалиме	емиласуреи	Иерусалим	PROPN	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2.9	ierusalime	иерус+а+л+и+ме	
+137	использую	юузьлопси	использовать	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	11.0	ispol'zuiu	ис+по+льз+ую	
+104	какие-то	от-еикак	какой-то	DET	Case=Nom|Number=Plur|PronType=Ind	32.4	kakie-to	какие+-+то	
+185	какого-то	от-огокак	какой-то	DET	Case=Gen|Gender=Neut|Number=Sing|PronType=Ind	2.5	kakogo-to	какого+-+то	
+158	кем-то	от-мек	кто-то	PRON	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	6.1	kem-to	кем+-+то	
+98	компания	яинапмок	компания	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	37.6	kompaniia	компан+и+я	GRAPH_PROBLEM
+195	корень	ьнерок	корень	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	1.9	koren'	корен+ь	pokud tam chceme i kamen
+124	короля	ялорок	король	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	18.6	korolia	корол+я	
+75	кровь	ьворк	кровь	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	69.0	krov'	кров+ь	
+13	люди	идюл	человек	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	437.4	liudi	люд+и	
+147	мари	ирам	Мари	PROPN	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	8.1	mari	мар+и	!
+141	многим	мигонм	много	NUM	NumType=Card	10.3	mnogim	мног+им	
+38	могла	алгом	мочь	VERB	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	190.6	mogla	могл+а	
+33	могли	илгом	мочь	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	225.5	mogli	мог+ли	
+169	надписью	юьсипдан	надпись	NOUN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	4.5	nadpis'iu	над+пис+ь+ю	
+107	неплохо	охолпен	неплохо	ADV	Degree=Pos	29.7	neplokho	не+плох+о	
+5	нет	тен	нет	VERB	Polarity=Neg	606.6	net	нет	
+26	нравится	ястиварн	нравиться	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	314.3	nravitsia	нрав+ит+ся	
+186	осмотреться	ясьтертомсо	осмотреться	VERB	Aspect=Perf|VerbForm=Inf|Voice=Mid	2.4	osmotret'sia	о+смотр+е+ть+ся	
+111	оставлю	юлватсо	оставить	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	27.5	ostavliu	о+ста+в+л+ю	
+42	один	нидо	один	NUM	Case=Nom|Gender=Masc	172.1	odin	один	premyslim o-din (aby tam pak zapadlo jedinstvennyj apod.)
+106	одни	индо	один	DET	Case=Nom|Number=Plur|PronType=Ind	30.0	odni	о+дн+и	
+197	одной	йондо	один	DET	Case=Dat|Gender=Fem|Number=Sing	1.8	odnoi	одн+ой	
+60	ой	йо	ой	INTJ		101.1	oi	ой	
+168	относишься	ясьшисонто	относиться	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	4.6	otnosish'sia	от+нос+ишь+ся	
+62	отца	ацто	отец	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	96.5	ottsa	отц+а	
+89	парня	янрап	парень	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	49.1	parnia	пар+н+я	
+200	перья	яьреп	перо	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	1.7	per'ia	пер+ья	GRAPH_PROBLEM
+135	пишу	ушип	писать	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	12.5	pishu	пиш+у	
+170	побеждает	теаджебоп	побеждать	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4.5	pobezhdaet	по+беждает	
+6	пожалуйста	атсйулажоп	пожалуйста	ADV	Degree=Pos	582.0	pozhaluista	по+жал+уй+ста	
+72	понятия	яитяноп	понятие	NOUN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	78.4	poniatiia	по+ня+т+и+я	GRAPH_PROBLEM
+8	после	елсоп	после	ADP		546.8	posle	после	
+11	потом	мотоп	потом	ADV	Degree=Pos	500.7	potom	по+т+ом	
+48	почти	итчоп	почти	ADV	Degree=Pos	139.1	pochti	по+чт+и	vyrazne lexakalizovane prislovce, segmentaci davam spis eimologickou
+36	пошли	илшоп	пойти	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	211.6	poshli	по+ш+л+и	!
+142	подходящее	еещядохдоп	подходящий	ADJ	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	9.5	podkhodiashchee	под+ход+ящ+ее	GRAPH_PROBLEM
+108	пол	лоп	пол	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	29.3	pol	пол	
+184	пот	топ	пот	NOUN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2.6	pot	пот	
+181	правитель	ьлетиварп	правитель	NOUN	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	2.8	pravitel'	прав+и+тел+ь	прав+и+тел+я
+134	пред	дерп	пред	ADP		13.1	pred	пред	
+114	президента	атнедизерп	президент	NOUN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	24.4	prezidenta	пре+зид+ент+а	tu vubec nevim, podle latinskych korenu samozrejme delitelne, ale kdyz to rozdelim, vychazi пред-сед-а-тель :-)))))
+189	примеров	воремирп	пример	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2.1	primerov	при+меров	
+53	пришел	леширп	прийти	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	123.0	prishel	при+шел	
+81	проверить	ьтиреворп	проверить	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	62.1	proverit'	про+вер+и+ть	
+155	проблемах	хамелборп	проблема	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	6.9	problemakh	про+блем+ах	
+90	пять	ьтяп	пять	NUM	Case=Nom	47.6	piat'	пят+ь	
+190	разделились	ьсилиледзар	разделиться	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	2.0	razdelilis'	раз+дели+лис+ь	
+84	расскажи	ижакссар	рассказать	VERB	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	54.0	rasskazhi	рас+скаж+и	
+156	реакцию	юицкаер	реакция	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6.8	reaktsiiu	ре+ак+ц+и+ю	
+34	ребята	атябер	ребята	NOUN	Animacy=Anim|Case=Nom|Gender=Neut|Number=Plur	217.5	rebiata	реб+ят+а	
+152	самое	еомас	самый	ADJ	Case=Acc|Gender=Neut|Number=Sing	7.1	samoe	сам+ое	GRAPH_PROBLEM
+15	себя	ябес	себя	PRON	Case=Acc|PronType=Prs|Reflex=Yes	398.8	sebia	себ+я	
+44	скажу	ужакс	сказать	VERB	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	167.6	skazhu	скаж+у	
+45	сказали	илазакс	сказать	VERB	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	165.3	skazali	с+каз+а+ли	
+128	слева	авелс	слева	ADV	Degree=Pos	16.7	sleva	с+лев+а	
+21	случилось	ьсоличулс	случиться	VERB	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	356.5	sluchilos'	случ+и+лос+ь	
+103	смысла	алсымс	смысл	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	32.6	smysla	с+мысл+а	
+65	спасти	итсапс	спасти	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	91.8	spasti	с+пас+ти	
+63	спросил	лисорпс	спросить	VERB	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	93.3	sprosil	с+про+сил	
+82	счет	течс	счет	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	62.0	schet	с+чет	
+132	свадьбе	ебьдавс	свадьба	NOUN	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	13.9	svad'be	сва+д+ь+б+е	
+93	силу	улис	сила	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	42.8	silu	сил+у	
+86	слава	авалс	слава	NOUN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	53.2	slava	слав+а	
+91	слова	аволс	слово	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	47.3	slova	слов+а	
+43	смотри	иртомс	смотреть	VERB	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	170.7	smotri	смотр+и	nenapada me nic, abych mela duvod oddelit c-, ale je to puvodne predpona (srov. motreti v jihoslovanskych jazycich)
+2	со	ос	с	ADP		642.0	so	со	
+71	собираешься	ясьшеарибос	собираться	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	80.2	sobiraesh'sia	со+бир+а+ешь+ся	
+188	совещании	иинащевос	совещание	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2.1	soveshchanii	со+вещ+а+ни+и	GRAPH_PROBLEM
+163	сообщество	овтсещбоос	сообщество	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5.5	soobshchestvo	со+общ+еств+о	
+127	состояние	еиняотсос	состояние	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	17.0	sostoianie	со+сто+я+ни+е	GRAPH_PROBLEM
+146	сохранять	ьтянархос	сохранять	VERB	Aspect=Imp|VerbForm=Inf|Voice=Act	8.1	sokhraniat'	со+хран+я+ть	
+122	старые	еыратс	старый	ADJ	Case=Nom|Degree=Pos|Number=Plur	19.3	starye	стар+ые	zase, pokud tam nechci hledat IE *stat
+192	суку	укус	сука	NOUN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	1.9	suku	сук+у	
+167	сэма	амэс	Сэм	PROPN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	4.9	sema	сэм+а	жан
+119	такого	огокат	такой	DET	Case=Gen|Gender=Neut|Number=Sing	20.2	takogo	такого	
+73	такое	еокат	такой	DET	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	76.4	takoe	так+ое	
+121	твоей	йеовт	твой	DET	Case=Dat|Gender=Fem|Number=Sing	19.3	tvoei	тв+о+ей	
+58	три	ирт	три	NUM	Case=Nom	108.9	tri	тр+и	
+154	убивали	илавибу	убивать	VERB	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6.9	ubivali	у+би+ва+ли	
+101	убийстве	евтсйибу	убийство	NOUN	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	33.5	ubiistve	у+би+й+ств+е	
+97	убийство	овтсйибу	убийство	NOUN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	39.4	ubiistvo	у+би+й+ств+о	
+191	уверить	ьтиреву	уверить	VERB	Aspect=Perf|VerbForm=Inf|Voice=Act	2.0	uverit'	у+вер+и+ть	
+140	угрожает	теажоргу	угрожать	VERB	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10.4	ugrozhaet	угр+ож+ает	
+194	утешение	еинешету	утешение	NOUN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1.9	uteshenie	у+теш+ен+и+е	
+50	утром	морту	утро	NOUN	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	134.8	utrom	утр+ом	
+112	фильм	мьлиф	фильм	NOUN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	27.0	fil'm	фил+ьм	
+4	чем	меч	чем	SCONJ		606.8	chem	чем	
+41	чём	мёч	что	PRON	Case=Loc|PronType=Int|PronType=Rel	176.5	chiom	чём	
+78	что-нибудь	ьдубин-отч	что-нибудь	PRON	Case=Nom|PronType=Ind	67.3	chto-nibud'	что+-+ни+буд+ь	
+49	часов	восач	час	NOUN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	137.3	chasov	час+ов	
+12	через	зереч	через	ADP		492.0	cherez	через	
+95	четыре	ерытеч	четыре	NUM	Case=Nom	41.7	chetyre	четыр+е	
+51	эта	атэ	этот	DET	Case=Nom|Gender=Fem|Number=Sing	130.5	eta	эт+а	
+9	этом	мотэ	это	PRON	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	530.7	etom	эт+ом	
+100	этому	умотэ	это	PRON	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	34.2	etomu	эт+ому	
+173	экономические	еиксечимонокэ	экономический	ADJ	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	4.1	ekonomicheskie	эко+ном+ич+еск+и+е	

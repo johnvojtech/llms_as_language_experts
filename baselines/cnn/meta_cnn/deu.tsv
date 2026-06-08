@@ -1,0 +1,151 @@
+#ID	FORM	REVERTED	LEMMA	UPOS	FEATS	PPM	TRANSLIT	ANNOTATION	COMMENT
+1	wieder	redeiw	wieder	ADV		1040.0	wieder	wieder	
+2	ihr	rhi	sie	PRON	Case=Dat|Gender=Fem|Number=Sing|Person=3|PronType=Prs	1001.6	ihr	ihr	
+3	mal	lam	mal	ADV		994.8	mal	mal	
+4	etwas	sawte	etwas	PRON	Gender=Neut|Number=Sing|PronType=Ind	959.6	etwas	etwas	
+5	geht	theg	gehen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	909.2	geht	geht	
+6	gut	tug	gut	ADJ	Degree=Pos	854.5	gut	gut	
+7	hat	tah	haben	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	791.3	hat	hat	
+8	gibt	tbig	geben	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	768.7	gibt	gibt	
+9	sich	hcis	sich	PRON	Case=Dat|Person=3|PronType=Prs|Reflex=Yes	685.4	sich	sich	
+11	kann	nnak	können	AUX	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	651.9	kann	kann	
+12	wie	eiw	wie	SCONJ		623.1	wie	wie	w- se opakuje u jinych slov, ale je to spise morfonologicky nez morfologicky rys, takze nevim
+13	am	ma	an|der	ADP|DET	||Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	605.4	am	am	???
+14	war	raw	sein	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	604.5	war	war	???
+15	bis	sib	bis	ADP		596.5	bis	bis	taky nevim, etimologicky bei+zu, pokud vim
+18	gesagt	tgaseg	sagen	VERB	VerbForm=Part	525.9	gesagt	gesagt	
+21	okay	yako	Okay	ADJ	Degree=Pos	492.2	okay	okay	o+k+ay?
+22	ob	bo	ob	SCONJ		477.9	ob	ob	
+23	damit	timad	damit	ADV	PronType=Dem	452.7	damit	da+mit	
+24	zwischen	nehcsiwz	zwischen	ADP		448.8	zwischen	zwischen	
+26	diese	eseid	dieser	DET	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	432.6	diese	dies+e	???
+27	gerade	edareg	gerade	ADV		424.9	gerade	gerade	
+28	los	sol	los	ADV		405.4	los	los	
+29	die	eid	der	PRON	Case=Acc|Number=Plur|PronType=Dem|PronType=Rel	399.3	die	die	
+32	nein	nien	nein	PART		349.6	nein	nein	???
+33	wird	driw	werden	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	329.0	wird	wird	
+34	gott	ttog	Gott	NOUN	Case=Nom|Gender=Masc|Number=Sing	312.3	gott	gott	
+35	mein	niem	mein	DET	Case=Acc|Gender=Neut|Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	308.5	mein	mein	
+36	uns	snu	wir	PRON	Case=Acc|Number=Plur|Person=1|PronType=Prs	303.0	uns	uns	
+37	die	eid	der	PRON	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem|PronType=Rel	298.2	die	die	
+38	weißt	tßiew	weißen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	297.0	weisst	weißt	
+40	her	reh	her	ADV		266.0	her	her	
+41	sieht	theis	sehen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	264.6	sieht	sieh+t	
+42	insbesondere	erednosebsni	insbesondere	ADV		250.0	insbesondere	insbesondere	
+43	leid	diel	leid	ADV		247.3	leid	leid	
+44	ging	gnig	gehen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	234.2	ging	ging	
+45	kommen	nemmok	kommen	VERB	VerbForm=Inf	221.7	kommen	komm+en	
+47	mutter	rettum	Mutter	NOUN	Case=Nom|Gender=Fem|Number=Sing	210.4	mutter	mutter	
+48	wollen	nellow	wollen	AUX	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	210.1	wollen	woll+en	
+49	denn	nned	denn	SCONJ		187.5	denn	denn	
+50	sagen	negas	sagen	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	177.7	sagen	sag+en	
+51	liegt	tgeil	liegen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	177.7	liegt	liegt	
+52	beide	edieb	beide	DET	Case=Nom|Number=Plur|NumType=Card|PronType=Tot	177.3	beide	beide	
+53	je	ej	je	ADV		171.3	je	je	
+54	ach	hca	ach	ADV		169.3	ach	ach	
+55	denn	nned	denn	CCONJ		157.9	denn	denn	
+58	gehört	tröheg	gehören	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	127.5	gehort	gehört	
+59	mr.	.rm	Mr.	PROPN	Case=Nom|Gender=Masc|Number=Sing	121.4	mr.	mr+.	???
+60	etwas	sawte	etwas	ADV	PronType=Ind	119.1	etwas	etwas	
+62	unten	netnu	unten	ADV		112.3	unten	unten	
+63	sterben	nebrets	sterben	VERB	VerbForm=Inf	106.7	sterben	sterb+en	
+64	nacht	thcan	Nacht	NOUN	Case=Nom|Gender=Fem|Number=Sing	103.7	nacht	nacht	
+65	ihre	erhi	ihr	DET	Case=Acc|Gender=Neut|Number=Plur|Person=3|Poss=Yes|PronType=Prs	103.4	ihre	ihr+e	
+71	stellen	nellets	stellen	VERB	VerbForm=Inf	84.4	stellen	stell+en	
+72	welt	tlew	Welt	NOUN	Case=Gen|Gender=Fem|Number=Sing	83.2	welt	welt	
+73	anderen	neredna	anderer	DET	Case=Nom|Number=Plur|PronType=Ind	82.5	anderen	ander+en	
+74	allen	nella	alle	DET	Case=Dat|Number=Plur|PronType=Tot	79.2	allen	all+en	???
+75	schaffen	neffahcs	schaffen	VERB	VerbForm=Inf	75.2	schaffen	schaff+en	
+78	erforderlich	hcilredrofre	erforderlich	ADJ	Degree=Pos	68.4	erforderlich	er+forder+lich	
+81	wollte	etllow	wollen	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	66.2	wollte	wollt+e	
+82	nachstehender	rednehetshcan	nachstehend	ADJ	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	64.2	nachstehender	nach+stehend+er	
+84	angesichts	sthcisegna	angesichts	ADP		60.8	angesichts	angesichts	
+86	hat	tah	HAT	AUX	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	55.6	hat	hat	
+88	ziehen	neheiz	ziehen	VERB	VerbForm=Inf	52.1	ziehen	zieh+en	
+89	arbeitet	tetiebra	arbeiten	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50.9	arbeitet	arbeitet	
+90	weh	hew	weh	ADV		50.6	weh	weh	
+91	muss	ssum	müssen	VERB	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	48.9	muss	muss	
+92	gelesen	neseleg	lesen	VERB	VerbForm=Part	46.4	gelesen	ge+lesen	
+93	china	anihc	China	PROPN	Case=Dat|Gender=Neut|Number=Sing	44.3	china	china	
+95	wofür	rüfow	wofür	ADV	PronType=Int	40.4	wofur	wo+für	
+97	jungs	sgnuj	Jungs	NOUN	Case=Nom|Gender=Masc|Number=Plur	39.6	jungs	jungs	
+98	sicherzustellen	nelletsuzrehcis	sicherstellen	VERB	VerbForm=Inf	37.9	sicherzustellen	sicher+zu+stell+en	
+99	wütend	dnetüw	wütend	ADJ	Degree=Pos	37.0	wutend	wütend	
+100	soweit	tiewos	soweit	SCONJ		34.1	soweit	so+weit	
+101	welche	ehclew	welcher	DET	Case=Nom|Number=Plur|PronType=Int|PronType=Rel	33.8	welche	welche	???
+102	jung	gnuj	jung	ADJ	Degree=Pos	33.1	jung	jung	
+103	preis	sierp	Preis	NOUN	Case=Acc|Gender=Masc|Number=Sing	30.0	preis	preis	
+104	schuldig	gidluhcs	schuldig	ADJ	Degree=Pos	29.7	schuldig	schuld+ig	
+106	nennen	nennen	nennen	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28.7	nennen	nenn+en	
+107	stadt	tdats	Stadt	NOUN	Case=Gen|Gender=Fem|Number=Sing	28.0	stadt	stadt	
+108	warte	etraw	warten	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26.9	warte	war+t+e	
+109	lange	egnal	lang	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26.5	lange	lange	
+110	einst	tsnie	einst	ADV		25.8	einst	einst	
+111	mitglieder	redeilgtim	Mitglied	NOUN	Case=Nom|Gender=Neut|Number=Plur	25.8	mitglieder	mit+glied+er	
+112	legen	negel	legen	VERB	VerbForm=Inf	25.1	legen	leg+en	
+113	solche	ehclos	solcher	DET	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	23.5	solche	solche	
+114	angegriffen	neffirgegna	angreifen	VERB	VerbForm=Part	22.4	angegriffen	angegriffen	
+115	lebte	etbel	leben	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	21.6	lebte	lebte	
+117	sterben	nebrets	sterben	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20.0	sterben	sterb+en	
+118	informationen	nenoitamrofni	Information	NOUN	Case=Gen|Gender=Fem|Number=Plur	19.7	informationen	inform+ation+en	
+119	komm	mmok	komm	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18.3	komm	komm	
+120	schob	bohcs	schieben	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18.0	schob	schob	
+121	schwarz	zrawhcs	schwarz	ADJ	Degree=Pos	17.1	schwarz	schwarz	
+122	unschuldig	gidluhcsnu	unschuldig	ADJ	Degree=Pos	17.0	unschuldig	un+schuld+ig	
+124	bestimmte	etmmitseb	bestimmt	ADJ	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	16.0	bestimmte	bestimmte	
+127	daneben	nebenad	daneben	ADV		14.6	daneben	da+neben	
+128	handy	ydnah	Handy	NOUN	Case=Acc|Gender=Neut|Number=Sing	14.4	handy	handy	
+130	fügte	etgüf	fügen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13.4	fugte	fügte	
+131	bedingungen	negnugnideb	Bedingung	NOUN	Case=Gen|Gender=Fem|Number=Plur	13.3	bedingungen	be+ding+ung+en	
+132	wissen	nessiw	Wissen	NOUN	Case=Acc|Gender=Neut|Number=Sing	13.1	wissen	wiss+en	
+134	einheit	tiehnie	Einheit	NOUN	Case=Nom|Gender=Fem|Number=Sing	11.9	einheit	ein+heit	
+135	wochenende	ednenehcow	Wochenende	NOUN	Case=Acc|Gender=Neut|Number=Sing	11.9	wochenende	woche+nende	
+137	heftig	gitfeh	heftig	ADJ	Degree=Pos	10.7	heftig	heftig	
+139	sieh	heis	sieh	PRON	Case=Acc|Person=3|PronType=Prs|Reflex=Yes	10.4	sieh	sieh	
+140	götter	rettög	Gott	NOUN	Case=Nom|Gender=Masc|Number=Plur	10.2	gotter	gött+er	
+141	blau	ualb	blau	ADJ	Degree=Pos	9.8	blau	blau	
+142	offiziell	lleiziffo	offiziell	ADJ	Degree=Pos	9.6	offiziell	offizi+ell	???
+143	war's	s'raw	wer'sen	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9.4	war's	war's	
+145	familien	neilimaf	Familie	NOUN	Case=Nom|Gender=Fem|Number=Plur	8.6	familien	famili+en	
+146	tor	rot	Tor	NOUN	Case=Dat|Gender=Neut|Number=Sing	8.6	tor	tor	
+147	schönheit	tiehnöhcs	Schönheit	NOUN	Case=Nom|Gender=Fem|Number=Sing	8.4	schonheit	schön+heit	
+148	inspektor	rotkepsni	Inspektor	NOUN	Case=Nom|Gender=Masc|Number=Sing	8.3	inspektor	inspekt+or	???
+150	großen	neßorg	groß	ADJ	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	7.5	grossen	groß+en	
+152	handy	ydnah	Handy	NOUN	Case=Dat|Gender=Masc|Number=Sing	6.9	handy	handy	
+154	wohnzimmer	remmiznhow	Wohnzimmer	NOUN	Case=Dat|Gender=Neut|Number=Sing	6.4	wohnzimmer	wohn+zimmer	
+155	erstenmal	lamnetsre	erstenmal	NOUN	Case=Dat|Gender=Neut|Number=Sing	6.0	erstenmal	erst+en+mal	
+156	existieren	nereitsixe	existieren	VERB	VerbForm=Inf	5.9	existieren	exist+ier+en	
+157	niemanden	nednamein	niemand	PRON	Case=Acc|Gender=Masc|Number=Sing	5.5	niemanden	niemand+en	
+158	gewachsen	neshcaweg	wachsen	ADJ	Degree=Pos|VerbForm=Part	5.3	gewachsen	ge+wachs+en	
+160	reihen	nehier	Reihe	NOUN	Case=Dat|Gender=Fem|Number=Plur	4.8	reihen	reih+en	
+161	gewisse	essiweg	gewiß	ADJ	Case=Acc|Degree=Pos|Gender=Fem|Number=Plur	4.7	gewisse	ge+wisse	
+162	ansprüche	ehcürpsna	Anspruch	NOUN	Case=Acc|Gender=Masc|Number=Plur	4.3	anspruche	an+sprüch+e	
+163	kooperation	noitarepook	Kooperation	NOUN	Case=Acc|Gender=Fem|Number=Sing	4.1	kooperation	kooper+ation	
+164	gerichtshof	fohsthcireg	Gerichtshof	NOUN	Case=Nom|Gender=Masc|Number=Sing	4.1	gerichtshof	ge+richt+s+hof	
+167	betreffend	dnefferteb	betreffend	ADJ	Degree=Pos	3.9	betreffend	betreffend	
+168	übernahme	emhanrebü	Übernahme	NOUN	Case=Acc|Gender=Fem|Number=Sing	3.5	ubernahme	über+nahm+e	
+169	ausgezahlt	tlhazegsua	auszahlen	VERB	VerbForm=Part	3.3	ausgezahlt	ausgezahlt	
+170	kollegen	negellok	Kollege	NOUN	Case=Gen|Gender=Masc|Number=Sing	3.3	kollegen	kol+leg+en	
+172	mitgemacht	thcamegtim	mitmachen	VERB	VerbForm=Part	3.1	mitgemacht	mitgemacht	
+173	wirtschaftszweig	giewzstfahcstriw	Wirtschaftszweig	NOUN	Case=Acc|Gender=Masc|Number=Sing	3.0	wirtschaftszweig	wirt+schaft+s+zweig	
+174	vorwerfen	nefrewrov	vorwerfen	VERB	VerbForm=Inf	3.0	vorwerfen	vor+werf+en	
+176	deine	enied	dein	DET	Case=Acc|Gender=Masc|Number=Plur|Person=3|Poss=Yes|PronType=Prs	2.8	deine	dein+e	
+177	tagesordnung	gnundrosegat	Tagesordnung	NOUN	Case=Acc|Gender=Fem|Number=Sing	2.8	tagesordnung	tag+es+ordn+ung	
+179	riskieren	nereiksir	riskieren	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2.5	riskieren	risk+ier+en	
+180	klagen	negalk	klagen	VERB	VerbForm=Inf	2.5	klagen	klag+en	
+181	isabella	allebasi	Isabella	PROPN	Case=Nom|Gender=Fem|Number=Sing	2.5	isabella	isabella	???
+182	einheitliche	ehciltiehnie	einheitlich	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	2.4	einheitliche	ein+heit+liche	
+184	draussen	nessuard	draussen	ADV		2.3	draussen	dr+aus+s+en	
+185	räusperte	etrepsuär	räuspern	VERB	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2.1	rausperte	räuspert+e	
+186	gesiegt	tgeiseg	siegen	VERB	VerbForm=Part	2.0	gesiegt	gesiegt	
+188	sowas	sawos	sowas	PRON		1.8	sowas	so+was	
+189	pilze	ezlip	Pilz	NOUN	Case=Acc|Gender=Masc|Number=Plur	1.7	pilze	pilz+e	
+190	bunker	reknub	Bunker	NOUN	Case=Acc|Gender=Masc|Number=Sing	1.6	bunker	bunk+er	
+191	völkerrechts	sthcerreklöv	Völkerrecht	NOUN	Case=Gen|Gender=Neut|Number=Sing	1.6	volkerrechts	völker+recht+s	
+192	regionalen	nelanoiger	regional	ADJ	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	1.6	regionalen	reg+ion+al+en	
+193	lauschten	nethcsual	lauschen	VERB	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1.5	lauschten	lauscht+en	
+194	geküßt	tßükeg	küßen	VERB	VerbForm=Part	1.4	gekusst	ge+küßt	
+195	schreck	kcerhcs	Schreck	NOUN	Case=Acc|Gender=Masc|Number=Sing	1.4	schreck	schreck	
+197	bestehen	nehetseb	Bestehen	NOUN	Case=Acc|Gender=Neut|Number=Sing	1.2	bestehen	be+steh+en	
+199	zuzufügen	negüfuzuz	zufügen	VERB	VerbForm=Inf	1.1	zuzufugen	zu+zu+füg+en	
+200	explodiert	treidolpxe	explodieren	ADJ	Degree=Pos|VerbForm=Part	1.0	explodiert	explodiert	
